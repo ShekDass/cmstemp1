@@ -5,26 +5,26 @@
 	"PATIENT AND INSURED INFORMATION": [
 		{
 			"1.INSURED PLAN": [
-			{"MEDICARE": "", "MEDICAID": "MEDICAID Medicaid#", "TRICARE": "", "CHAMPVA": "", "GROUP HEALTH": "", "FECA":"", "OTHER": ""}
+			{"MEDICARE": "", "MEDICAID": "", "TRICARE": "", "CHAMPVA": "CHAMPVA Member ID#", "GROUP HEALTH": "", "FECA":"", "OTHER": ""}
 			],
-			"1a. INSURED'S I.D. NUMBER": "ABV145662300789",
-			"2. PATIENT'S NAME": "LARSON, DANIELLE K",
+			"1a. INSURED'S I.D. NUMBER": "WVS884523182300100",
+			"2. PATIENT'S NAME": "SIGOLOFF, DAKOTA C",
 			"3. PATIENT'S DATE OF BIRTH":[
-			{"MM":"01", "DD":"06", "YY":"2021"}
+			{"MM":"08", "DD":"22", "YY":"20"}
 			],
 			"3. PATIENT'S SEX": "F",
-			"4. INSURED'S NAME": "LARSON, DENNIS",
-			"5. PATIENT'S ADDRESS": "1406 CENTERPOINT OR",
-			"5. PATIENT'S CITY": "FALLON",
-			"5. PATIENT'S STATE":"OR",
-			"5. PATIENT'S ZIP CODE": "62269",
+			"4. INSURED'S NAME": "SIGOLOFF, BRIAN C",
+			"5. PATIENT'S ADDRESS": "6255 DR BIG BEN AVE HIGHWAY",
+			"5. PATIENT'S CITY": "SIERRAVISTA",
+			"5. PATIENT'S STATE":"IL",
+			"5. PATIENT'S ZIP CODE": "833542",
 			"5. PATIENT'S TELEPHONE": [
 			{
 				"label":"PATIENT'S TELEPHONE NUMBER",
-				"text": "834 655-4322",
+				"text": "839 655-4320",
 				"words": [
 					{
-						"word": "834 655-4322",
+						"word": "839 655-4320",
 						"normalizedVertices": [
 							{
 								"x": 340,
@@ -47,28 +47,28 @@
 				]	
 			}
 			],
-			"6. PATIENT RELATIONSHIP": "Spouse",
+			"6. PATIENT RELATIONSHIP": "Child",
 			"7. INSURED'S INFO": [
-			{"7. INSURED'S ADDRESS": "1406 CENTERPOINT OR"},
-			{"7. INSURED'S CITY": "FALLON", "7. INSURED'S STATE":"OR"},
-			{"7. INSURED'S ZIP CODE":"62269"}
+			{"7. INSURED'S ADDRESS": "6401 N PLACITA ALTA REPOSA"},
+			{"7. INSURED'S CITY": "SIERRAVISTA", "7. INSURED'S STATE":"IL"},
+			{"7. INSURED'S ZIP CODE":"85700"}
 			],
-			"9. OTHER INSURED'S NAME": "LARSON, DENNIS",
-			"9a. OTHER INSURED'S POLICY OR GROUP": "321123654456",
-			"9d. INSURANCE PLAN NAME": "MEDICAID",
+			"9. OTHER INSURED'S NAME": "SIGOLOFF, BRIAN C",
+			"9a. OTHER INSURED'S POLICY OR GROUP": "255444582145",
+			"9d. INSURANCE PLAN NAME": "CHAMPVA MEDICAID ",
 			"10. PATIENT'S CONDITION": [
 			{"10a. EMPLOYMENT": "NO"},
 			{"10b. AUTO ACCIDENT": "NO"},
 			{"10c. OTHER ACCIDENT":"YES"}
 			],
-			"11. INSURED'S POLICY GROUP OR FECA NUMBER": "832568912",
+			"11. INSURED'S POLICY GROUP OR FECA NUMBER": "04245688936",
 			"11a. INSURED'S SEX": "M",
-			"11c. INSURANCE PLAN NAME": "UNION PPO NOT APPLICABLE",
-			"11d. IS THERE ANOTHER HEALTH BENEFIT PLAN": "NO",
+			"11c. INSURANCE PLAN NAME": "HEALTH PPO ENROLLING GROUP NONUNION",
+			"11d. IS THERE ANOTHER HEALTH BENEFIT PLAN": "YES",
 			"12. PATIENT'S OR AUTHORIZED PERSON'S SIGNATURE": [
-			{"SIGNED": "SIGNATURE ON FILE", "DATE": "08/14/ 2019"}
+			{"SIGNED": "SIGNATURE ON FILE", "DATE": "09/21/2022"}
 			],
-			"13. INSURED OR AUTHORIZED PERSON'S SIGNATURE": "SIGNATURE BY DENNIS"
+			"13. INSURED OR AUTHORIZED PERSON'S SIGNATURE": "BRIAN"
 		}
 	],
 	"PHYSICIAN OR MEDICAL PROVIDER INFORMATION": [
@@ -103,10 +103,10 @@
 			},
 			{
 				"label":"ILLNESS A.",
-				"text": "G116",
+				"text": "A886",
 				"words": [
 					{
-						"word": "G116",
+						"word": "A886",
 						"normalizedVertices": [
 							{
 								"x": 95,
@@ -130,10 +130,10 @@
 			},
 			{
 				"label":"ILLNESS B.",
-				"text": "S22",
+				"text": "001 . 4",
 				"words": [
 					{
-						"word": "S22",
+						"word": "001 . 4",
 						"normalizedVertices": [
 							{
 								"x": 350,
@@ -157,10 +157,10 @@
 			},
 			{
 				"label":"ILLNESS C.",
-				"text": "Z1221",
+				"text": "",
 				"words": [
 					{
-						"word": "Z1221",
+						"word": "",
 						"normalizedVertices": [
 							{
 								"x": 610,
@@ -211,10 +211,10 @@
 			},
 			{
 				"label":"ILLNESS E.",
-				"text": "Q22 . 5",
+				"text": "",
 				"words": [
 					{
-						"word": "Q22 . 5",
+						"word": "",
 						"normalizedVertices": [
 							{
 								"x": 95,
@@ -264,36 +264,36 @@
 				]
 			}
 			],
-			"20. OUTSIDE LAB": "YES",
-			"20. LAB $CHARGES": " 115045|75 ",
+			"20. OUTSIDE LAB": "NO",
+			"20. LAB $CHARGES": "0| ",
 			"22. RESUBMISSION CODE":  "",
-			"23. PRIOR AUTHORIZATION NUMBER": "A88889999",
+			"23. PRIOR AUTHORIZATION NUMBER": "55555999999",
 			"24. SERVICES": [
-			{"MM 1":"06", "DD 1":"29", "YY 1": "22", "PLACE OF SERVICE 1": "11", "EMG 1": "Y", "CPT/HCPCS 1": "Z2544", "MODIFIER 1": "NT", "DIAGNOSIS POINTER 1": "BA12", "$CHARGES 1":"95|15", "UNITS 1":"004", "Family Plan 1": "", "PROVIDER ID 1": "88V115288DP"},
-			{"MM 2":"", "DD 2":"", "YY 2":"", "PLACE OF SERVICE 2": "", "EMG 2": "", "CPT/HCPCS 2": "", "MODIFIER 2": "", "DIAGNOSIS POINTER 2": "", "$CHARGES 2": "", "UNITS 2": "", "Family Plan 2": "", "PROVIDER ID 2": ""},
-			{"MM 3":"", "DD 3":"", "YY 3":"", "PLACE OF SERVICE 3": "", "EMG 3": "", "CPT/HCPCS 3": "", "MODIFIER 3": "", "DIAGNOSIS POINTER 3": "", "$CHARGES 3": "", "UNITS 3": "", "Family Plan 3": "", "PROVIDER ID 3": ""}
+			{"MM 1":"05", "DD 1":"19", "YY 1": "22", "PLACE OF SERVICE 1": "", "EMG 1": "Y", "CPT/HCPCS 1": "Z3544", "MODIFIER 1": "NU", "DIAGNOSIS POINTER 1": "B", "$CHARGES 1":"55|50", "UNITS 1":"2", "Family Plan 1": "", "PROVIDER ID 1": "8811528877"},
+			{"MM 2":"04", "DD 2":"12", "YY 2":"23", "PLACE OF SERVICE 2": "", "EMG 2": "", "CPT/HCPCS 2": "DF993", "MODIFIER 2": "LP", "DIAGNOSIS POINTER 2": "124", "$CHARGES 2": "25|35", "UNITS 2": "10.5", "Family Plan 2": "Y", "PROVIDER ID 2": "J6558"},
+			{"MM 3":"12", "DD 3":"05", "YY 3":"24", "PLACE OF SERVICE 3": "10", "EMG 3": "", "CPT/HCPCS 3": "0910.4", "MODIFIER 3": "20", "DIAGNOSIS POINTER 3": "A", "$CHARGES 3": "1932|00", "UNITS 3": "007", "Family Plan 3": "", "PROVIDER ID 3": "F25879A65"}
 			],
-			"25. FEDERAL TAX I.D. NUMBER": "66358995114",
+			"25. FEDERAL TAX I.D. NUMBER": "9954067374",
 			"25. FEDERAL IDENTIFICATION": "EIN",
-            "26. PATIENT'S ACCOUNT NUMBER": "6125222255612",
+            "26. PATIENT'S ACCOUNT NUMBER": "44653089014645",
             "27. ACCEPT ASSIGNMENT": "YES",
-			"28. TOTAL CHARGE": "95|15",
-			"29. AMOUNT PAID": "95|15",
+			"28. TOTAL CHARGE": "2012|85",
+			"29. AMOUNT PAID": "1940|00",
 			"31. PHYSICIAN OR SUPPLIER SIGNATURE": [
-			{"SIGNED": "PHYSICIAN POR", "DATE": "09/30/2021"}
+			{"SIGNED": "PHY OR POR ", "DATE": "09/21/2022"}
 			],
 			"32. SERVICE INFORMATION": [
-			{"32. SERVICE FACILITY LOCATION": "DDR KIMBERLY HCC NORTH BAY RST 415256 DAHLIA 22ND ST"},
-			{"32. a. NPI NUMBER": "125411547"}
+			{"32. SERVICE FACILITY LOCATION": "DR ZANE'S HEALTH CARE CENTER SPRING CREEK PA 60322"},
+			{"32. a. NPI NUMBER": "36411"}
 			],
-			"33. BILLING PROVIDER PHONE": "785 658-2558",
+			"33. BILLING PROVIDER PHONE": "788 658-7339",
 			"33. BILLING PROVIDER LOCATION": [
 			{
 				"label":"BILLING PROVIDER INFO",
-				"text": "PAY TO: HCC CLAIMS SECTION PO BOX 60115 CHERRY FIELDS IL 83345-1211",
+				"text": "PAY TO: HCC CLAIMS PO BOX 603211 WINTERFELL IL 83345-1211",
 				"words": [
 					{
-						"word": "PAY TO: HCC CLAIMS SECTIONPO BOX 60115 CHERRY FIELDS IL 83345-1211",
+						"word": "PAY TO: HCC CLAIMS PO BOX 603211 WINTERFELL IL 83345-1211",
 						"normalizedVertices": [
 							{
 								"x": 1030,
@@ -316,7 +316,7 @@
 				]	
 			}
 			],
-			"33. a. NPI NUMBER": "452147G82"
+			"33. a. NPI NUMBER": ""
 		}
 	]
 }
