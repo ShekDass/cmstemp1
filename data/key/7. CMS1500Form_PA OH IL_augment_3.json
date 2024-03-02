@@ -286,37 +286,11 @@
 			{"32. SERVICE FACILITY LOCATION": "HCC HOSPITALE DOGWOOD PA 60322"},
 			{"32. a. NPI NUMBER": "456416532"}
 			],
-			"33. BILLING PROVIDER PHONE": "765 889-3239",
-			"33. BILLING PROVIDER LOCATION": [
-			{
-				"label":"BILLING PROVIDER INFO",
-				"text": "PAY TO: CUO CLAIMS OFFICE PO BOX 60115 FASTWOOD PA 43345-32119",
-				"words": [
-					{
-						"word": "PAY TO: CUO CLAIMS OFFICE PO BOX 60115 FASTWOOD PA 43345-32119",
-						"normalizedVertices": [
-							{
-								"x": 1030,
-								"y": 1980
-							},
-							{
-								"x": 1665,
-								"y": 1980
-							},
-							{
-								"x": 1665,
-								"y": 2075
-							},
-							{
-								"x": 1030,
-								"y": 2075
-							}
-						]
-					}
-				]	
-			}
-			],
-			"33. a. NPI NUMBER": "7410025885"
+			"33. BILLING INFORMATION": [
+			{"33. BILLING PROVIDER PHONE": "765 889-3239"},
+			{"33. BILLING PROVIDER LOCATION": "PAY TO: CUO CLAIMS OFFICE PO BOX 60115 FASTWOOD PA 43345-32119"},
+			{"33. a. NPI NUMBER": "7410025885"}
+			]
 		}
 	]
 }

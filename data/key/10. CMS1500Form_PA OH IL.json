@@ -286,37 +286,11 @@
 			{"32. SERVICE FACILITY LOCATION": "CHILD CARE CENTER WILLOW AVENUE PA 803244"},
 			{"32. a. NPI NUMBER": "832511547"}
 			],
-			"33. BILLING PROVIDER PHONE": "765 669-7339",
-			"33. BILLING PROVIDER LOCATION": [
-			{
-				"label":"BILLING PROVIDER INFO",
-				"text": "PAY TO: MEDICAID HQ CLAIMS PO ODENBURG DE 60336",
-				"words": [
-					{
-						"word": "PAY TO: MEDICAID HQ CLAIMS PO ODENBURG DE 60336",
-						"normalizedVertices": [
-							{
-								"x": 1030,
-								"y": 1980
-							},
-							{
-								"x": 1665,
-								"y": 1980
-							},
-							{
-								"x": 1665,
-								"y": 2075
-							},
-							{
-								"x": 1030,
-								"y": 2075
-							}
-						]
-					}
-				]	
-			}
-			],
-			"33. a. NPI NUMBER": "888995336"
+			"33. BILLING INFORMATION": [
+			{"33. BILLING PROVIDER PHONE": "765 669-7339"},
+			{"33. BILLING PROVIDER LOCATION": "PAY TO: MEDICAID HQ CLAIMS PO ODENBURG DE 60336"},
+			{"33. a. NPI NUMBER": "888995336"}
+			]
 		}
 	]
 }

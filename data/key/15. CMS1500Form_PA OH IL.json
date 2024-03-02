@@ -286,37 +286,11 @@
 			{"32. SERVICE FACILITY LOCATION": "DR ZANE'S HEALTH CARE CENTER SPRING CREEK PA 60322"},
 			{"32. a. NPI NUMBER": "36411"}
 			],
-			"33. BILLING PROVIDER PHONE": "788 658-7339",
-			"33. BILLING PROVIDER LOCATION": [
-			{
-				"label":"BILLING PROVIDER INFO",
-				"text": "PAY TO: HCC CLAIMS PO BOX 603211 WINTERFELL IL 83345-1211",
-				"words": [
-					{
-						"word": "PAY TO: HCC CLAIMS PO BOX 603211 WINTERFELL IL 83345-1211",
-						"normalizedVertices": [
-							{
-								"x": 1030,
-								"y": 1980
-							},
-							{
-								"x": 1665,
-								"y": 1980
-							},
-							{
-								"x": 1665,
-								"y": 2075
-							},
-							{
-								"x": 1030,
-								"y": 2075
-							}
-						]
-					}
-				]	
-			}
-			],
-			"33. a. NPI NUMBER": ""
+			"33. BILLING INFORMATION": [
+			{"33. BILLING PROVIDER PHONE": "788 658-7339"},
+			{"33. BILLING PROVIDER LOCATION": "PAY TO: HCC CLAIMS PO BOX 603211 WINTERFELL IL 83345-1211"},
+			{"33. a. NPI NUMBER": ""}
+			]
 		}
 	]
 }

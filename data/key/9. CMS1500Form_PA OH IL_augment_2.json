@@ -286,37 +286,11 @@
 			{"32. SERVICE FACILITY LOCATION": "NATIONAL CARE CENTER OGDENBURG 14TH ST DE 60325"},
 			{"32. a. NPI NUMBER": "82104112"}
 			],
-			"33. BILLING PROVIDER PHONE": "765 669-7339",
-			"33. BILLING PROVIDER LOCATION": [
-			{
-				"label":"BILLING PROVIDER INFO",
-				"text": "PAY TO: MEDICAID HQ CLAIMS PO ODENBURG DE 60336",
-				"words": [
-					{
-						"word": "PAY TO: MEDICAID HQ CLAIMS PO ODENBURG DE 60336",
-						"normalizedVertices": [
-							{
-								"x": 1030,
-								"y": 1980
-							},
-							{
-								"x": 1665,
-								"y": 1980
-							},
-							{
-								"x": 1665,
-								"y": 2075
-							},
-							{
-								"x": 1030,
-								"y": 2075
-							}
-						]
-					}
-				]	
-			}
-			],
-			"33. a. NPI NUMBER": "87899326675"
+			"33. BILLING INFORMATION": [
+			{"33. BILLING PROVIDER PHONE": "765 669-7339"},
+			{"33. BILLING PROVIDER LOCATION": "PAY TO: MEDICAID HQ CLAIMS PO ODENBURG DE 60336"},
+			{"33. a. NPI NUMBER": "87899326675"}
+			]
 		}
 	]
 }

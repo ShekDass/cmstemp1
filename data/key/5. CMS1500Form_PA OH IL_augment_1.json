@@ -286,37 +286,11 @@
 			{"32. SERVICE FACILITY LOCATION": "HEALTH CARE CENTER WALKER ST. PA 60421 26TH STREET HAMILTON"},
 			{"32. a. NPI NUMBER": "7852542137"}
 			],
-			"33. BILLING PROVIDER PHONE": "785 666-3335",
-			"33. BILLING PROVIDER LOCATION": [
-			{
-				"label":"BILLING PROVIDER INFO",
-				"text": "PAY TO: HCC CLAIMS OFFICE MEDICAID PO BOX 60115 ILFS DE 82245-1211",
-				"words": [
-					{
-						"word": "PAY TO: HCC CLAIMS OFFICE MEDICAID PO BOX 60115 ILFS DE 82245-1211",
-						"normalizedVertices": [
-							{
-								"x": 1030,
-								"y": 1980
-							},
-							{
-								"x": 1665,
-								"y": 1980
-							},
-							{
-								"x": 1665,
-								"y": 2075
-							},
-							{
-								"x": 1030,
-								"y": 2075
-							}
-						]
-					}
-				]	
-			}
-			],
-			"33. a. NPI NUMBER": ""
+			"33. BILLING INFORMATION": [
+			{"33. BILLING PROVIDER PHONE": "785 666-3335"},
+			{"33. BILLING PROVIDER LOCATION": "PAY TO: HCC CLAIMS OFFICE MEDICAID PO BOX 60115 ILFS DE 82245-1211"},
+			{"33. a. NPI NUMBER": ""}
+			]
 		}
 	]
 }

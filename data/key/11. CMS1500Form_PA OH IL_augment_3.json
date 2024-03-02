@@ -286,37 +286,11 @@
 			{"32. SERVICE FACILITY LOCATION": "HCC DR LOUIS PLYMOUTH CENTRAL SQUARE DE 60325"},
 			{"32. a. NPI NUMBER": "235434645"}
 			],
-			"33. BILLING PROVIDER PHONE": "785 658-7339",
-			"33. BILLING PROVIDER LOCATION": [
-			{
-				"label":"BILLING PROVIDER INFO",
-				"text": "PAY TO: HCC BILLING SECTION PO BOX 60114 WHITE FIELD IL 83345-1211",
-				"words": [
-					{
-						"word": "PAY TO: HCC BILLING SECTION PO BOX 60114 WHITE FIELD IL 83345-1211",
-						"normalizedVertices": [
-							{
-								"x": 1030,
-								"y": 1980
-							},
-							{
-								"x": 1665,
-								"y": 1980
-							},
-							{
-								"x": 1665,
-								"y": 2075
-							},
-							{
-								"x": 1030,
-								"y": 2075
-							}
-						]
-					}
-				]	
-			}
-			],
-			"33. a. NPI NUMBER": "87899553164"
+			"33. BILLING INFORMATION": [
+			{"33. BILLING PROVIDER PHONE": "785 658-7339"},
+			{"33. BILLING PROVIDER LOCATION": "PAY TO: HCC BILLING SECTION PO BOX 60114 WHITE FIELD IL 83345-1211"},
+			{"33. a. NPI NUMBER": "87899553164"}
+			]
 		}
 	]
 }

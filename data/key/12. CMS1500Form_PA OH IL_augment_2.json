@@ -286,37 +286,11 @@
 			{"32. SERVICE FACILITY LOCATION": "COOPER HEALTH CARE CENTER NORTH BAY AREA PA 60326 KRAKENSWING 48TH BLVD"},
 			{"32. a. NPI NUMBER": "235411547"}
 			],
-			"33. BILLING PROVIDER PHONE": "795 868-7329",
-			"33. BILLING PROVIDER LOCATION": [
-			{
-				"label":"BILLING PROVIDER INFO",
-				"text": "PAY TO: CLAIMS & LEGAL DEPARTMENT CHERRY FIELDS, PO BOX 60115 IL 86445-12119",
-				"words": [
-					{
-						"word": "PAY TO: CLAIMS & LEGAL DEPARTMENT CHERRY FIELDS, PO BOX 60115 IL 86445-12119",
-						"normalizedVertices": [
-							{
-								"x": 1030,
-								"y": 1980
-							},
-							{
-								"x": 1665,
-								"y": 1980
-							},
-							{
-								"x": 1665,
-								"y": 2075
-							},
-							{
-								"x": 1030,
-								"y": 2075
-							}
-						]
-					}
-				]	
-			}
-			],
-			"33. a. NPI NUMBER": "87899553164"
+			"33. BILLING INFORMATION": [
+			{"33. BILLING PROVIDER PHONE": "795 868-7329"},
+			{"33. BILLING PROVIDER LOCATION": "PAY TO: CLAIMS & LEGAL DEPARTMENT CHERRY FIELDS, PO BOX 60115 IL 86445-12119"},
+			{"33. a. NPI NUMBER": "87899553164"}
+			]
 		}
 	]
 }
