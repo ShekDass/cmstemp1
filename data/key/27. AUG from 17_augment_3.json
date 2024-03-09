@@ -1,0 +1,295 @@
+{
+    "meta": {
+		"formtype": "HEALTH INSURANCE CLAIM FORM"
+	},
+	"PATIENT AND INSURED INFORMATION": [
+		{
+			"1.INSURED PLAN": "CHAMPVA Member ID#",
+			"1a. INSURED'S I.D. NUMBER": "GST499568561421",
+			"2. PATIENT'S NAME": "DARC, JEANNE",
+			"3. PATIENT'S DATE OF BIRTH":[
+			{"MM":"11", "DD":"13", "YY":"94"}
+			],
+			"3. PATIENT'S SEX": "F",
+			"4. INSURED'S NAME": "DARC, JEANNE",
+			"5. PATIENT'S ADDRESS": "2900 W OKLAHAMA AVE",
+			"5. PATIENT'S CITY": "ALBERTA",
+			"5. PATIENT'S STATE":"AK",
+			"5. PATIENT'S ZIP CODE": "53218",
+			"5. PATIENT'S TELEPHONE": [
+			{
+				"label":"PATIENT'S TELEPHONE NUMBER",
+				"text": "826 655-1465",
+				"words": [
+					{
+						"word": "826 655-1465",
+						"normalizedVertices": [
+							{
+								"x": 340,
+								"y": 580
+							},
+							{
+								"x": 640,
+								"y": 580
+							},
+							{
+								"x": 640,
+								"y": 630
+							},
+							{
+								"x": 340,
+								"y": 630
+							}
+						]
+					}
+				]	
+			}
+			],
+			"6. PATIENT RELATIONSHIP": "Self",
+			"7. INSURED'S INFO": [
+			{"4. INSURED'S NAME": "DARC, JEANNE"},
+			{"7. INSURED'S ADDRESS": "2900 W OKLAHAMA AVE"},
+			{"7. INSURED'S CITY": "ALBERTA", "7. INSURED'S STATE":"AK"},
+			{"7. INSURED'S ZIP CODE":"53218", "7. INSURED'S TELEPHONE":"642 995-5545"}
+			],
+			"9. OTHER INSURED'S NAME": "DARCEE",
+			"9a. OTHER INSURED'S POLICY OR GROUP": "2554492366787",
+			"9d. INSURANCE PLAN NAME": "CHAMPIONS LEAGUE",
+			"10. PATIENT'S CONDITION": [
+			{"10a. EMPLOYMENT": "YES"},
+			{"10b. AUTO ACCIDENT": "NO"},
+			{"10c. OTHER ACCIDENT":"NO"}
+			],
+			"11. INSURED'S POLICY GROUP OR FECA NUMBER": "GM32008936",
+			"11a. INSURED'S SEX": "F",
+			"11c. INSURANCE PLAN NAME": "LOCAL CORPORATION GROUP",
+			"11d. IS THERE ANOTHER HEALTH BENEFIT PLAN": "NO",
+			"12. PATIENT'S OR AUTHORIZED PERSON'S SIGNATURE": [
+			{"SIGNED": "DFGCV SIG", "DATE": "06/11/2011"}
+			],
+			"13. INSURED OR AUTHORIZED PERSON'S SIGNATURE": "DORTH"
+		}
+	],
+	"PHYSICIAN OR MEDICAL PROVIDER INFORMATION": [
+        {
+            "21. DIAGNOSIS OR NATURE OF ILLNESS": [
+			{
+				"label":"ICD Indicator",
+				"text": "0",
+				"words": [
+					{
+						"word": "0",
+						"normalizedVertices": [
+							{
+								"x": 875,
+								"y": 1295
+							},
+							{
+								"x": 905,
+								"y": 1295
+							},
+							{
+								"x": 905,
+								"y": 1320
+							},
+							{
+								"x": 875,
+								"y": 1320
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS A.",
+				"text": "E800",
+				"words": [
+					{
+						"word": "E800",
+						"normalizedVertices": [
+							{
+								"x": 95,
+								"y": 1300
+							},
+							{
+								"x": 220,
+								"y": 1300
+							},
+							{
+								"x": 220,
+								"y": 1359
+							},
+							{
+								"x": 95,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS B.",
+				"text": "N22",
+				"words": [
+					{
+						"word": "N22",
+						"normalizedVertices": [
+							{
+								"x": 350,
+								"y": 1300
+							},
+							{
+								"x": 470,
+								"y": 1300
+							},
+							{
+								"x": 470,
+								"y": 1359
+							},
+							{
+								"x": 350,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS C.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 610,
+								"y": 1300
+							},
+							{
+								"x": 730,
+								"y": 1300
+							},
+							{
+								"x": 730,
+								"y": 1359
+							},
+							{
+								"x": 610,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS D.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 875,
+								"y": 1321
+							},
+							{
+								"x": 995,
+								"y": 1321
+							},
+							{
+								"x": 995,
+								"y": 1359
+							},
+							{
+								"x": 875,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS E.",
+				"text": "S8999",
+				"words": [
+					{
+						"word": "S8999",
+						"normalizedVertices": [
+							{
+								"x": 95,
+								"y": 1361
+							},
+							{
+								"x": 220,
+								"y": 1361
+							},
+							{
+								"x": 220,
+								"y": 1419
+							},
+							{
+								"x": 95,
+								"y": 1419
+							}
+						]
+					}
+				]
+			},
+			{
+				"label":"ILLNESS F.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 350,
+								"y": 1361
+							},
+							{
+								"x": 470,
+								"y": 1361
+							},
+							{
+								"x": 470,
+								"y": 1419
+							},
+							{
+								"x": 350,
+								"y": 1419
+							}
+						]
+					}
+				]
+			}
+			],
+			"20. OUTSIDE LAB": "YES",
+			"20. LAB $CHARGES": " 200| ",
+			"22. RESUBMISSION CODE":  "JK 47",
+			"23. PRIOR AUTHORIZATION NUMBER": "9999999999",
+			"24. SERVICES": [
+			{"MM 1":"02", "DD 1":"27", "YY 1": "22", "PLACE OF SERVICE 1": "11", "EMG 1": "Y", "CPT/HCPCS 1": "L2255", "MODIFIER 1": "RB", "DIAGNOSIS POINTER 1": "BB", "$CHARGES 1":"859|29", "UNITS 1":"006", "Family Plan 1": "Y", "PROVIDER ID 1": "1152888"},
+			{"MM 2":"10", "DD 2":"23", "YY 2":"26", "PLACE OF SERVICE 2": "20", "EMG 2": "Y", "CPT/HCPCS 2": "95585", "MODIFIER 2": "KM", "DIAGNOSIS POINTER 2": "14", "$CHARGES 2": "1055|00", "UNITS 2": "60", "Family Plan 2": "", "PROVIDER ID 2": "J528I77"},
+			{"MM 3":"", "DD 3":"", "YY 3":"", "PLACE OF SERVICE 3": "", "EMG 3": "", "CPT/HCPCS 3": "", "MODIFIER 3": "", "DIAGNOSIS POINTER 3": "", "$CHARGES 3": "", "UNITS 3": "", "Family Plan 3": "", "PROVIDER ID 3": ""}
+			],
+			"25. FEDERAL TAX I.D. NUMBER": "99511654825",
+			"25. FEDERAL IDENTIFICATION": "EIN",
+            "26. PATIENT'S ACCOUNT NUMBER": "45213",
+            "27. ACCEPT ASSIGNMENT": "YES",
+			"28. TOTAL CHARGE": "1914|29",
+			"29. AMOUNT PAID": "1000|00",
+			"31. PHYSICIAN OR SUPPLIER SIGNATURE": [
+			{"SIGNED": "SIGNATURE ON FILE", "DATE": "06/11/2023"}
+			],
+			"32. SERVICE INFORMATION": [
+			{"32. SERVICE FACILITY LOCATION": "TRAVIS KING HEALTH CARE CENTER MILLERS CENTRAL SPRING 45TH 53215"},
+			{"32. a. NPI NUMBER": "6678922837"}
+			],
+			"33. BILLING INFORMATION": [
+			{"33. BILLING PROVIDER PHONE": "735 958-1339"},
+			{"33. BILLING PROVIDER LOCATION": "PAY TO: HCC CLAIMS SECTION PO BOX 601224 CHERRY FIELDS IL 83345-1998"},
+			{"33. a. NPI NUMBER": "87895"}
+			]
+		}
+	]
+}

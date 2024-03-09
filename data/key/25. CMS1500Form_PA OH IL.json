@@ -1,0 +1,295 @@
+{
+    "meta": {
+		"formtype": "HEALTH INSURANCE CLAIM FORM"
+	},
+	"PATIENT AND INSURED INFORMATION": [
+		{
+			"1.INSURED PLAN": "CHAMPVA Member ID#",
+			"1a. INSURED'S I.D. NUMBER": "YOT49956808397",
+			"2. PATIENT'S NAME": "KIEFFE, LAURA",
+			"3. PATIENT'S DATE OF BIRTH":[
+			{"MM":"12", "DD":"08", "YY":"2011"}
+			],
+			"3. PATIENT'S SEX": "F",
+			"4. INSURED'S NAME": "KIEFFE, TIMOTHY O",
+			"5. PATIENT'S ADDRESS": "2555 MOLLYPITCHER HWY",
+			"5. PATIENT'S CITY": "SHIPPENSBURG",
+			"5. PATIENT'S STATE":"IL",
+			"5. PATIENT'S ZIP CODE": "17257",
+			"5. PATIENT'S TELEPHONE": [
+			{
+				"label":"PATIENT'S TELEPHONE NUMBER",
+				"text": "855 - 233 - 9530",
+				"words": [
+					{
+						"word": "855 - 233 - 9530",
+						"normalizedVertices": [
+							{
+								"x": 340,
+								"y": 580
+							},
+							{
+								"x": 640,
+								"y": 580
+							},
+							{
+								"x": 640,
+								"y": 630
+							},
+							{
+								"x": 340,
+								"y": 630
+							}
+						]
+					}
+				]	
+			}
+			],
+			"6. PATIENT RELATIONSHIP": "Spouse",
+			"7. INSURED'S INFO": [
+			{"4. INSURED'S NAME": "KIEFFE, TIMOTHY O"},
+			{"7. INSURED'S ADDRESS": "2555 MOLLYPITCHER HWY"},
+			{"7. INSURED'S CITY": "SHIPPENSBURG", "7. INSURED'S STATE":"KL"},
+			{"7. INSURED'S ZIP CODE":"17257", "7. INSURED'S TELEPHONE":""}
+			],
+			"9. OTHER INSURED'S NAME": "KIEFFE, TIMOTHY O",
+			"9a. OTHER INSURED'S POLICY OR GROUP": "8554224554488",
+			"9d. INSURANCE PLAN NAME": "MEDIC AID",
+			"10. PATIENT'S CONDITION": [
+			{"10a. EMPLOYMENT": "YES"},
+			{"10b. AUTO ACCIDENT": "YES"},
+			{"10c. OTHER ACCIDENT":"NO"}
+			],
+			"11. INSURED'S POLICY GROUP OR FECA NUMBER": "0C324558936",
+			"11a. INSURED'S SEX": "M",
+			"11c. INSURANCE PLAN NAME": "UNITED UNION GROUP",
+			"11d. IS THERE ANOTHER HEALTH BENEFIT PLAN": "YES",
+			"12. PATIENT'S OR AUTHORIZED PERSON'S SIGNATURE": [
+			{"SIGNED": "SIGNED AT HOSPITAL", "DATE": "07/ 13/ 2024"}
+			],
+			"13. INSURED OR AUTHORIZED PERSON'S SIGNATURE": "INSURED SIGN CHK FILE"
+		}
+	],
+	"PHYSICIAN OR MEDICAL PROVIDER INFORMATION": [
+        {
+            "21. DIAGNOSIS OR NATURE OF ILLNESS": [
+			{
+				"label":"ICD Indicator",
+				"text": "0",
+				"words": [
+					{
+						"word": "0",
+						"normalizedVertices": [
+							{
+								"x": 875,
+								"y": 1295
+							},
+							{
+								"x": 905,
+								"y": 1295
+							},
+							{
+								"x": 905,
+								"y": 1320
+							},
+							{
+								"x": 875,
+								"y": 1320
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS A.",
+				"text": "R811",
+				"words": [
+					{
+						"word": "R811",
+						"normalizedVertices": [
+							{
+								"x": 95,
+								"y": 1300
+							},
+							{
+								"x": 220,
+								"y": 1300
+							},
+							{
+								"x": 220,
+								"y": 1359
+							},
+							{
+								"x": 95,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS B.",
+				"text": "055 . 36",
+				"words": [
+					{
+						"word": "055 . 36",
+						"normalizedVertices": [
+							{
+								"x": 350,
+								"y": 1300
+							},
+							{
+								"x": 470,
+								"y": 1300
+							},
+							{
+								"x": 470,
+								"y": 1359
+							},
+							{
+								"x": 350,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS C.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 610,
+								"y": 1300
+							},
+							{
+								"x": 730,
+								"y": 1300
+							},
+							{
+								"x": 730,
+								"y": 1359
+							},
+							{
+								"x": 610,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS D.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 875,
+								"y": 1321
+							},
+							{
+								"x": 995,
+								"y": 1321
+							},
+							{
+								"x": 995,
+								"y": 1359
+							},
+							{
+								"x": 875,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS E.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 95,
+								"y": 1361
+							},
+							{
+								"x": 220,
+								"y": 1361
+							},
+							{
+								"x": 220,
+								"y": 1419
+							},
+							{
+								"x": 95,
+								"y": 1419
+							}
+						]
+					}
+				]
+			},
+			{
+				"label":"ILLNESS F.",
+				"text": "S8911",
+				"words": [
+					{
+						"word": "S8911",
+						"normalizedVertices": [
+							{
+								"x": 350,
+								"y": 1361
+							},
+							{
+								"x": 470,
+								"y": 1361
+							},
+							{
+								"x": 470,
+								"y": 1419
+							},
+							{
+								"x": 350,
+								"y": 1419
+							}
+						]
+					}
+				]
+			}
+			],
+			"20. OUTSIDE LAB": "NO",
+			"20. LAB $CHARGES": "|",
+			"22. RESUBMISSION CODE":  "A 20",
+			"23. PRIOR AUTHORIZATION NUMBER": "415559999H9",
+			"24. SERVICES": [
+			{"MM 1":"06", "DD 1":"05", "YY 1": "22", "PLACE OF SERVICE 1": "04", "EMG 1": "", "CPT/HCPCS 1": "023.7", "MODIFIER 1": "", "DIAGNOSIS POINTER 1": "A", "$CHARGES 1":"65|50", "UNITS 1":"2", "Family Plan 1": "Y", "PROVIDER ID 1": "66145Y32"},
+			{"MM 2":"04", "DD 2":"06", "YY 2":"24", "PLACE OF SERVICE 2": "12", "EMG 2": "", "CPT/HCPCS 2": "ZX55", "MODIFIER 2": "AL", "DIAGNOSIS POINTER 2": "14", "$CHARGES 2": "25|45", "UNITS 2": "1.5", "Family Plan 2": "", "PROVIDER ID 2": ""},
+			{"MM 3":"", "DD 3":"", "YY 3":"", "PLACE OF SERVICE 3": "", "EMG 3": "", "CPT/HCPCS 3": "", "MODIFIER 3": "", "DIAGNOSIS POINTER 3": "", "$CHARGES 3": "", "UNITS 3": "", "Family Plan 3": "", "PROVIDER ID 3": ""}
+			],
+			"25. FEDERAL TAX I.D. NUMBER": "995004",
+			"25. FEDERAL IDENTIFICATION": "EIN",
+            "26. PATIENT'S ACCOUNT NUMBER": "685222014612",
+            "27. ACCEPT ASSIGNMENT": "YES",
+			"28. TOTAL CHARGE": "90|95",
+			"29. AMOUNT PAID": "90|00",
+			"31. PHYSICIAN OR SUPPLIER SIGNATURE": [
+			{"SIGNED": "SIGNATURE ", "DATE": "04/22/2023"}
+			],
+			"32. SERVICE INFORMATION": [
+			{"32. SERVICE FACILITY LOCATION": "UNITED HCC SHIPPENSBURG CENTRAL SQUARE ILLINOIS PO 17255"},
+			{"32. a. NPI NUMBER": "5G541154G"}
+			],
+			"33. BILLING INFORMATION": [
+			{"33. BILLING PROVIDER PHONE": "785 - 658 - 7339"},
+			{"33. BILLING PROVIDER LOCATION": "PY TO: HCC BILLING SECTION HEADQUARTERS PO BOX 60115 MINEFIELDS IL 83345"},
+			{"33. a. NPI NUMBER": "87899P53OG"}
+			]
+		}
+	]
+}

@@ -1,0 +1,295 @@
+{
+    "meta": {
+		"formtype": "HEALTH INSURANCE CLAIM FORM"
+	},
+	"PATIENT AND INSURED INFORMATION": [
+		{
+			"1.INSURED PLAN": "MEDICARE Medicare#",
+			"1a. INSURED'S I.D. NUMBER": "GBH7235153129",
+			"2. PATIENT'S NAME": "WINIECKI, JEANNE",
+			"3. PATIENT'S DATE OF BIRTH":[
+			{"MM":"02", "DD":"22", "YY":"24"}
+			],
+			"3. PATIENT'S SEX": "F",
+			"4. INSURED'S NAME": "WINIECKI, DANE JR",
+			"5. PATIENT'S ADDRESS": "99 BLUE HERON",
+			"5. PATIENT'S CITY": "EASH AMHERST",
+			"5. PATIENT'S STATE":"IL",
+			"5. PATIENT'S ZIP CODE": "85700",
+			"5. PATIENT'S TELEPHONE": [
+			{
+				"label":"PATIENT'S TELEPHONE NUMBER",
+				"text": "764 239-9505",
+				"words": [
+					{
+						"word": "764 239-9505",
+						"normalizedVertices": [
+							{
+								"x": 340,
+								"y": 580
+							},
+							{
+								"x": 640,
+								"y": 580
+							},
+							{
+								"x": 640,
+								"y": 630
+							},
+							{
+								"x": 340,
+								"y": 630
+							}
+						]
+					}
+				]	
+			}
+			],
+			"6. PATIENT RELATIONSHIP": "Child",
+			"7. INSURED'S INFO": [
+			{"4. INSURED'S NAME": "WINIECKI, DANE JR"},
+			{"7. INSURED'S ADDRESS": "99 BLUE HERON, BIGBOWL LANE"},
+			{"7. INSURED'S CITY": "EASH AMHERST", "7. INSURED'S STATE":"IL"},
+			{"7. INSURED'S ZIP CODE":"85700", "7. INSURED'S TELEPHONE":"428 239 - 5990"}
+			],
+			"9. OTHER INSURED'S NAME": "WINIECKI, DANE JR",
+			"9a. OTHER INSURED'S POLICY OR GROUP": "2514224556612",
+			"9d. INSURANCE PLAN NAME": "MEDICARE PLAN",
+			"10. PATIENT'S CONDITION": [
+			{"10a. EMPLOYMENT": "YES"},
+			{"10b. AUTO ACCIDENT": "NO"},
+			{"10c. OTHER ACCIDENT":"YES"}
+			],
+			"11. INSURED'S POLICY GROUP OR FECA NUMBER": "0432158936",
+			"11a. INSURED'S SEX": "M",
+			"11c. INSURANCE PLAN NAME": "FEDEX NON-UNION PLATINUM",
+			"11d. IS THERE ANOTHER HEALTH BENEFIT PLAN": "YES",
+			"12. PATIENT'S OR AUTHORIZED PERSON'S SIGNATURE": [
+			{"SIGNED": "DANE WINNECKI", "DATE": "01/24/2024"}
+			],
+			"13. INSURED OR AUTHORIZED PERSON'S SIGNATURE": "DANE WINNECKI"
+		}
+	],
+	"PHYSICIAN OR MEDICAL PROVIDER INFORMATION": [
+        {
+            "21. DIAGNOSIS OR NATURE OF ILLNESS": [
+			{
+				"label":"ICD Indicator",
+				"text": "0",
+				"words": [
+					{
+						"word": "0",
+						"normalizedVertices": [
+							{
+								"x": 875,
+								"y": 1295
+							},
+							{
+								"x": 905,
+								"y": 1295
+							},
+							{
+								"x": 905,
+								"y": 1320
+							},
+							{
+								"x": 875,
+								"y": 1320
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS A.",
+				"text": "S455",
+				"words": [
+					{
+						"word": "S455",
+						"normalizedVertices": [
+							{
+								"x": 95,
+								"y": 1300
+							},
+							{
+								"x": 220,
+								"y": 1300
+							},
+							{
+								"x": 220,
+								"y": 1359
+							},
+							{
+								"x": 95,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS B.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 350,
+								"y": 1300
+							},
+							{
+								"x": 470,
+								"y": 1300
+							},
+							{
+								"x": 470,
+								"y": 1359
+							},
+							{
+								"x": 350,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS C.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 610,
+								"y": 1300
+							},
+							{
+								"x": 730,
+								"y": 1300
+							},
+							{
+								"x": 730,
+								"y": 1359
+							},
+							{
+								"x": 610,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS D.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 875,
+								"y": 1321
+							},
+							{
+								"x": 995,
+								"y": 1321
+							},
+							{
+								"x": 995,
+								"y": 1359
+							},
+							{
+								"x": 875,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS E.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 95,
+								"y": 1361
+							},
+							{
+								"x": 220,
+								"y": 1361
+							},
+							{
+								"x": 220,
+								"y": 1419
+							},
+							{
+								"x": 95,
+								"y": 1419
+							}
+						]
+					}
+				]
+			},
+			{
+				"label":"ILLNESS F.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 350,
+								"y": 1361
+							},
+							{
+								"x": 470,
+								"y": 1361
+							},
+							{
+								"x": 470,
+								"y": 1419
+							},
+							{
+								"x": 350,
+								"y": 1419
+							}
+						]
+					}
+				]
+			}
+			],
+			"20. OUTSIDE LAB": "YES",
+			"20. LAB $CHARGES": "93|67 ",
+			"22. RESUBMISSION CODE":  "S 03",
+			"23. PRIOR AUTHORIZATION NUMBER": "8888888888",
+			"24. SERVICES": [
+			{"MM 1":"10", "DD 1":"17", "YY 1": "24", "PLACE OF SERVICE 1": "11", "EMG 1": "Y", "CPT/HCPCS 1": "V6522", "MODIFIER 1": "NU", "DIAGNOSIS POINTER 1": "AB", "$CHARGES 1":"745|00", "UNITS 1":"30", "Family Plan 1": "", "PROVIDER ID 1": "8811528877"},
+			{"MM 2":"01", "DD 2":"19", "YY 2":"24", "PLACE OF SERVICE 2": "05", "EMG 2": "Y", "CPT/HCPCS 2": "093546", "MODIFIER 2": "VF", "DIAGNOSIS POINTER 2": "A23", "$CHARGES 2": "305|60", "UNITS 2": "2.5", "Family Plan 2": "", "PROVIDER ID 2": "R22184"},
+			{"MM 3":"", "DD 3":"", "YY 3":"", "PLACE OF SERVICE 3": "", "EMG 3": "", "CPT/HCPCS 3": "", "MODIFIER 3": "", "DIAGNOSIS POINTER 3": "", "$CHARGES 3": "", "UNITS 3": "", "Family Plan 3": "", "PROVIDER ID 3": ""}
+			],
+			"25. FEDERAL TAX I.D. NUMBER": "878-995-1140",
+			"25. FEDERAL IDENTIFICATION": "SSN",
+            "26. PATIENT'S ACCOUNT NUMBER": "466329822078201",
+            "27. ACCEPT ASSIGNMENT": "NO",
+			"28. TOTAL CHARGE": "1050|60",
+			"29. AMOUNT PAID": "1050| ",
+			"31. PHYSICIAN OR SUPPLIER SIGNATURE": [
+			{"SIGNED": "DANE WINNECKI", "DATE": "02/29/2023"}
+			],
+			"32. SERVICE INFORMATION": [
+			{"32. SERVICE FACILITY LOCATION": "VISION CARE CENTER AMHERST CENTRA DIST 68829"},
+			{"32. a. NPI NUMBER": "88805422837"}
+			],
+			"33. BILLING INFORMATION": [
+			{"33. BILLING PROVIDER PHONE": "785 6517109"},
+			{"33. BILLING PROVIDER LOCATION": "PAYER: THIRD PARTY LIABILITY PO BOX SILENTHILL PA 83345-1211"},
+			{"33. a. NPI NUMBER": "87899553164"}
+			]
+		}
+	]
+}

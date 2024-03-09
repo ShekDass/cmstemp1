@@ -1,0 +1,295 @@
+{
+    "meta": {
+		"formtype": "HEALTH INSURANCE CLAIM FORM"
+	},
+	"PATIENT AND INSURED INFORMATION": [
+		{
+			"1.INSURED PLAN": "MEDICARE Medicare#",
+			"1a. INSURED'S I.D. NUMBER": "GSH7235153152224",
+			"2. PATIENT'S NAME": "RITTUTO, KATHLEEN R",
+			"3. PATIENT'S DATE OF BIRTH":[
+			{"MM":"09", "DD":"18", "YY":"1995"}
+			],
+			"3. PATIENT'S SEX": "F",
+			"4. INSURED'S NAME": "RITTUTO, DAVID S",
+			"5. PATIENT'S ADDRESS": "6436 TORUGA SLOW LANE",
+			"5. PATIENT'S CITY": "CLUTO",
+			"5. PATIENT'S STATE":"IL",
+			"5. PATIENT'S ZIP CODE": "35700",
+			"5. PATIENT'S TELEPHONE": [
+			{
+				"label":"PATIENT'S TELEPHONE NUMBER",
+				"text": "834 655-1129",
+				"words": [
+					{
+						"word": "834 655-1129",
+						"normalizedVertices": [
+							{
+								"x": 340,
+								"y": 580
+							},
+							{
+								"x": 640,
+								"y": 580
+							},
+							{
+								"x": 640,
+								"y": 630
+							},
+							{
+								"x": 340,
+								"y": 630
+							}
+						]
+					}
+				]	
+			}
+			],
+			"6. PATIENT RELATIONSHIP": "Spouse",
+			"7. INSURED'S INFO": [
+			{"4. INSURED'S NAME": "RITTUTO, DAVID S"},
+			{"7. INSURED'S ADDRESS": "6436 TORUGA SLOW LANE"},
+			{"7. INSURED'S CITY": "CLUTO", "7. INSURED'S STATE":"IL"},
+			{"7. INSURED'S ZIP CODE":"35700", "7. INSURED'S TELEPHONE":"765 235-5916"}
+			],
+			"9. OTHER INSURED'S NAME": "DAVID S",
+			"9a. OTHER INSURED'S POLICY OR GROUP": "099019941",
+			"9d. INSURANCE PLAN NAME": "MEDICARE NOT MEDICAID",
+			"10. PATIENT'S CONDITION": [
+			{"10a. EMPLOYMENT": "YES"},
+			{"10b. AUTO ACCIDENT": "NO"},
+			{"10c. OTHER ACCIDENT":"NO"}
+			],
+			"11. INSURED'S POLICY GROUP OR FECA NUMBER": "05011999231",
+			"11a. INSURED'S SEX": "M",
+			"11c. INSURANCE PLAN NAME": "UK PPO SERVICE GROUP",
+			"11d. IS THERE ANOTHER HEALTH BENEFIT PLAN": "YES",
+			"12. PATIENT'S OR AUTHORIZED PERSON'S SIGNATURE": [
+			{"SIGNED": "KATHY", "DATE": "02/14/2024"}
+			],
+			"13. INSURED OR AUTHORIZED PERSON'S SIGNATURE": "CHK FL"
+		}
+	],
+	"PHYSICIAN OR MEDICAL PROVIDER INFORMATION": [
+        {
+            "21. DIAGNOSIS OR NATURE OF ILLNESS": [
+			{
+				"label":"ICD Indicator",
+				"text": "9",
+				"words": [
+					{
+						"word": "9",
+						"normalizedVertices": [
+							{
+								"x": 875,
+								"y": 1295
+							},
+							{
+								"x": 905,
+								"y": 1295
+							},
+							{
+								"x": 905,
+								"y": 1320
+							},
+							{
+								"x": 875,
+								"y": 1320
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS A.",
+				"text": "T800",
+				"words": [
+					{
+						"word": "T800",
+						"normalizedVertices": [
+							{
+								"x": 95,
+								"y": 1300
+							},
+							{
+								"x": 220,
+								"y": 1300
+							},
+							{
+								"x": 220,
+								"y": 1359
+							},
+							{
+								"x": 95,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS B.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 350,
+								"y": 1300
+							},
+							{
+								"x": 470,
+								"y": 1300
+							},
+							{
+								"x": 470,
+								"y": 1359
+							},
+							{
+								"x": 350,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS C.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 610,
+								"y": 1300
+							},
+							{
+								"x": 730,
+								"y": 1300
+							},
+							{
+								"x": 730,
+								"y": 1359
+							},
+							{
+								"x": 610,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS D.",
+				"text": "8025 . 4",
+				"words": [
+					{
+						"word": "8025 . 4",
+						"normalizedVertices": [
+							{
+								"x": 875,
+								"y": 1321
+							},
+							{
+								"x": 995,
+								"y": 1321
+							},
+							{
+								"x": 995,
+								"y": 1359
+							},
+							{
+								"x": 875,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS E.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 95,
+								"y": 1361
+							},
+							{
+								"x": 220,
+								"y": 1361
+							},
+							{
+								"x": 220,
+								"y": 1419
+							},
+							{
+								"x": 95,
+								"y": 1419
+							}
+						]
+					}
+				]
+			},
+			{
+				"label":"ILLNESS F.",
+				"text": "RX1455",
+				"words": [
+					{
+						"word": "RX1455",
+						"normalizedVertices": [
+							{
+								"x": 350,
+								"y": 1361
+							},
+							{
+								"x": 470,
+								"y": 1361
+							},
+							{
+								"x": 470,
+								"y": 1419
+							},
+							{
+								"x": 350,
+								"y": 1419
+							}
+						]
+					}
+				]
+			}
+			],
+			"20. OUTSIDE LAB": "YES",
+			"20. LAB $CHARGES": "49010|50",
+			"22. RESUBMISSION CODE":  "",
+			"23. PRIOR AUTHORIZATION NUMBER": "202485266",
+			"24. SERVICES": [
+			{"MM 1":"09", "DD 1":"13", "YY 1": "23", "PLACE OF SERVICE 1": "21", "EMG 1": "Y", "CPT/HCPCS 1": "Q6593", "MODIFIER 1": "", "DIAGNOSIS POINTER 1": "A", "$CHARGES 1":"25|50", "UNITS 1":"1", "Family Plan 1": "", "PROVIDER ID 1": "2255628877"},
+			{"MM 2":"01", "DD 2":"19", "YY 2":"24", "PLACE OF SERVICE 2": "11", "EMG 2": "Y", "CPT/HCPCS 2": "97774", "MODIFIER 2": "25", "DIAGNOSIS POINTER 2": "A", "$CHARGES 2": "96|00", "UNITS 2": "75", "Family Plan 2": "", "PROVIDER ID 2": "22115288"},
+			{"MM 3":"", "DD 3":"", "YY 3":"", "PLACE OF SERVICE 3": "", "EMG 3": "", "CPT/HCPCS 3": "", "MODIFIER 3": "", "DIAGNOSIS POINTER 3": "", "$CHARGES 3": "", "UNITS 3": "", "Family Plan 3": "", "PROVIDER ID 3": ""}
+			],
+			"25. FEDERAL TAX I.D. NUMBER": "857975739",
+			"25. FEDERAL IDENTIFICATION": "SSN",
+            "26. PATIENT'S ACCOUNT NUMBER": "685222",
+            "27. ACCEPT ASSIGNMENT": "YES",
+			"28. TOTAL CHARGE": "121|40",
+			"29. AMOUNT PAID": "109|25",
+			"31. PHYSICIAN OR SUPPLIER SIGNATURE": [
+			{"SIGNED": "BY DR KIM", "DATE": "16 APR, 2024"}
+			],
+			"32. SERVICE INFORMATION": [
+			{"32. SERVICE FACILITY LOCATION": "TOBACCO ABUSE CARE CENTER FAST LANE IL 877543 DOWN HILL SLOW LANE PA 4577-8324"},
+			{"32. a. NPI NUMBER": ""}
+			],
+			"33. BILLING INFORMATION": [
+			{"33. BILLING PROVIDER PHONE": ""},
+			{"33. BILLING PROVIDER LOCATION": "TOMATO FIELDS IL 83345-1211 FGP MOTR BUILDING"},
+			{"33. a. NPI NUMBER": "878995C"}
+			]
+		}
+	]
+}

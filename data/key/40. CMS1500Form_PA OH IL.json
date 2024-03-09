@@ -1,0 +1,295 @@
+{
+    "meta": {
+		"formtype": "HEALTH INSURANCE CLAIM FORM"
+	},
+	"PATIENT AND INSURED INFORMATION": [
+		{
+			"1.INSURED PLAN": "GROUP HEALTH PLAN ID#",
+			"1a. INSURED'S I.D. NUMBER": "",
+			"2. PATIENT'S NAME": "DASHAN, CANDI R",
+			"3. PATIENT'S DATE OF BIRTH":[
+			{"MM":"05", "DD":"16", "YY":"2006"}
+			],
+			"3. PATIENT'S SEX": "F",
+			"4. INSURED'S NAME": "DASHAN, CANDI R",
+			"5. PATIENT'S ADDRESS": "6104 HABANA AVE NW",
+			"5. PATIENT'S CITY": "DALE CITY",
+			"5. PATIENT'S STATE":"IL",
+			"5. PATIENT'S ZIP CODE": "83501",
+			"5. PATIENT'S TELEPHONE": [
+			{
+				"label":"PATIENT'S TELEPHONE NUMBER",
+				"text": "834 788-4768",
+				"words": [
+					{
+						"word": "834 788-4768",
+						"normalizedVertices": [
+							{
+								"x": 340,
+								"y": 580
+							},
+							{
+								"x": 640,
+								"y": 580
+							},
+							{
+								"x": 640,
+								"y": 630
+							},
+							{
+								"x": 340,
+								"y": 630
+							}
+						]
+					}
+				]	
+			}
+			],
+			"6. PATIENT RELATIONSHIP": "Self",
+			"7. INSURED'S INFO": [
+			{"4. INSURED'S NAME": "DASHAN, CANDI R"},
+			{"7. INSURED'S ADDRESS": ""},
+			{"7. INSURED'S CITY": "DALE CITY", "7. INSURED'S STATE":"IL"},
+			{"7. INSURED'S ZIP CODE":"83501", "7. INSURED'S TELEPHONE": "715 235-5119"}
+			],
+			"9. OTHER INSURED'S NAME": "DASHAN, CANDI R",
+			"9a. OTHER INSURED'S POLICY OR GROUP": "B399019941",
+			"9d. INSURANCE PLAN NAME": "MEDICAID WITH GROUP H-PLAN",
+			"10. PATIENT'S CONDITION": [
+			{"10a. EMPLOYMENT": "NO"},
+			{"10b. AUTO ACCIDENT": "NO"},
+			{"10c. OTHER ACCIDENT":"YES"}
+			],
+			"11. INSURED'S POLICY GROUP OR FECA NUMBER": "N999231",
+			"11a. INSURED'S SEX": "F",
+			"11c. INSURANCE PLAN NAME": "QUEEN KATHLEEN OF DALE",
+			"11d. IS THERE ANOTHER HEALTH BENEFIT PLAN": "YES",
+			"12. PATIENT'S OR AUTHORIZED PERSON'S SIGNATURE": [
+			{"SIGNED": "CANDI", "DATE": "JANUARY 11, 2024"}
+			],
+			"13. INSURED OR AUTHORIZED PERSON'S SIGNATURE": "SIGNATURES FILED"
+		}
+	],
+	"PHYSICIAN OR MEDICAL PROVIDER INFORMATION": [
+        {
+            "21. DIAGNOSIS OR NATURE OF ILLNESS": [
+			{
+				"label":"ICD Indicator",
+				"text": "9",
+				"words": [
+					{
+						"word": "9",
+						"normalizedVertices": [
+							{
+								"x": 875,
+								"y": 1295
+							},
+							{
+								"x": 905,
+								"y": 1295
+							},
+							{
+								"x": 905,
+								"y": 1320
+							},
+							{
+								"x": 875,
+								"y": 1320
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS A.",
+				"text": "I8225",
+				"words": [
+					{
+						"word": "I8225",
+						"normalizedVertices": [
+							{
+								"x": 95,
+								"y": 1300
+							},
+							{
+								"x": 220,
+								"y": 1300
+							},
+							{
+								"x": 220,
+								"y": 1359
+							},
+							{
+								"x": 95,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS B.",
+				"text": "RZ2140",
+				"words": [
+					{
+						"word": "RZ2140",
+						"normalizedVertices": [
+							{
+								"x": 350,
+								"y": 1300
+							},
+							{
+								"x": 470,
+								"y": 1300
+							},
+							{
+								"x": 470,
+								"y": 1359
+							},
+							{
+								"x": 350,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS C.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 610,
+								"y": 1300
+							},
+							{
+								"x": 730,
+								"y": 1300
+							},
+							{
+								"x": 730,
+								"y": 1359
+							},
+							{
+								"x": 610,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS D.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 875,
+								"y": 1321
+							},
+							{
+								"x": 995,
+								"y": 1321
+							},
+							{
+								"x": 995,
+								"y": 1359
+							},
+							{
+								"x": 875,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS E.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 95,
+								"y": 1361
+							},
+							{
+								"x": 220,
+								"y": 1361
+							},
+							{
+								"x": 220,
+								"y": 1419
+							},
+							{
+								"x": 95,
+								"y": 1419
+							}
+						]
+					}
+				]
+			},
+			{
+				"label":"ILLNESS F.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 350,
+								"y": 1361
+							},
+							{
+								"x": 470,
+								"y": 1361
+							},
+							{
+								"x": 470,
+								"y": 1419
+							},
+							{
+								"x": 350,
+								"y": 1419
+							}
+						]
+					}
+				]
+			}
+			],
+			"20. OUTSIDE LAB": "YES",
+			"20. LAB $CHARGES": "490| ",
+			"22. RESUBMISSION CODE":  "A 01",
+			"23. PRIOR AUTHORIZATION NUMBER": "AL999999668",
+			"24. SERVICES": [
+			{"MM 1":"1", "DD 1":"19", "YY 1": "24", "PLACE OF SERVICE 1": "14", "EMG 1": "", "CPT/HCPCS 1": "S2566", "MODIFIER 1": "20", "DIAGNOSIS POINTER 1": "K24", "$CHARGES 1":"1135|69", "UNITS 1":"1100", "Family Plan 1": "Y", "PROVIDER ID 1": "1596I04457"},
+			{"MM 2":"", "DD 2":"", "YY 2":"", "PLACE OF SERVICE 2": "", "EMG 2": "", "CPT/HCPCS 2": "", "MODIFIER 2": "", "DIAGNOSIS POINTER 2": "", "$CHARGES 2": "", "UNITS 2": "", "Family Plan 2": "", "PROVIDER ID 2": ""},
+			{"MM 3":"", "DD 3":"", "YY 3":"", "PLACE OF SERVICE 3": "", "EMG 3": "", "CPT/HCPCS 3": "", "MODIFIER 3": "", "DIAGNOSIS POINTER 3": "", "$CHARGES 3": "", "UNITS 3": "", "Family Plan 3": "", "PROVIDER ID 3": ""}
+			],
+			"25. FEDERAL TAX I.D. NUMBER": "173811991",
+			"25. FEDERAL IDENTIFICATION": "EIN",
+            "26. PATIENT'S ACCOUNT NUMBER": "285QR2852146",
+            "27. ACCEPT ASSIGNMENT": "NO",
+			"28. TOTAL CHARGE": "1135|69",
+			"29. AMOUNT PAID": " | ",
+			"31. PHYSICIAN OR SUPPLIER SIGNATURE": [
+			{"SIGNED": "CAND POR FACILITY", "DATE": "09/02/2023"}
+			],
+			"32. SERVICE INFORMATION": [
+			{"32. SERVICE FACILITY LOCATION": "MILLER'S HEALTH HOSPITAL IL 60322 TAMPA INN 47TH WING"},
+			{"32. a. NPI NUMBER": ""}
+			],
+			"33. BILLING INFORMATION": [
+			{"33. BILLING PROVIDER PHONE": "744-658-6117"},
+			{"33. BILLING PROVIDER LOCATION": "PAYING HCC BILLING SECTION PO BOX 605 LIME TALL GRASSES CHICAGO OUTER 345-1211"},
+			{"33. a. NPI NUMBER": "9165422837"}
+			]
+		}
+	]
+}

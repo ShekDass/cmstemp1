@@ -1,0 +1,295 @@
+{
+    "meta": {
+		"formtype": "HEALTH INSURANCE CLAIM FORM"
+	},
+	"PATIENT AND INSURED INFORMATION": [
+		{
+			"1.INSURED PLAN": "MEDICAID Medicaid#",
+			"1a. INSURED'S I.D. NUMBER": "PTO81923-5129-805",
+			"2. PATIENT'S NAME": "JOSHUA, PETER S",
+			"3. PATIENT'S DATE OF BIRTH":[
+			{"MM":"01", "DD":"10", "YY":"1999"}
+			],
+			"3. PATIENT'S SEX": "M",
+			"4. INSURED'S NAME": "BALL, MICHAEL F",
+			"5. PATIENT'S ADDRESS": "9080 KIMBERLY HALL BLVD",
+			"5. PATIENT'S CITY": "BOCA RATON",
+			"5. PATIENT'S STATE":"IL",
+			"5. PATIENT'S ZIP CODE": "33434",
+			"5. PATIENT'S TELEPHONE": [
+			{
+				"label":"PATIENT'S TELEPHONE NUMBER",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 340,
+								"y": 580
+							},
+							{
+								"x": 640,
+								"y": 580
+							},
+							{
+								"x": 640,
+								"y": 630
+							},
+							{
+								"x": 340,
+								"y": 630
+							}
+						]
+					}
+				]	
+			}
+			],
+			"6. PATIENT RELATIONSHIP": "Child",
+			"7. INSURED'S INFO": [
+			{"4. INSURED'S NAME": "BALL, MICHAEL F"},
+			{"7. INSURED'S ADDRESS": "9080 KIMBERLY HALL BLVD REPOSA"},
+			{"7. INSURED'S CITY": "BOCA RATON", "7. INSURED'S STATE":"IL"},
+			{"7. INSURED'S ZIP CODE":"33434", "7. INSURED'S TELEPHONE":"705-612-2224"}
+			],
+			"9. OTHER INSURED'S NAME": "BALL, MICHAEL F",
+			"9a. OTHER INSURED'S POLICY OR GROUP": "9804199882150",
+			"9d. INSURANCE PLAN NAME": "MEDICAID MEMBERS",
+			"10. PATIENT'S CONDITION": [
+			{"10a. EMPLOYMENT": "YES"},
+			{"10b. AUTO ACCIDENT": "NO"},
+			{"10c. OTHER ACCIDENT":"YES"}
+			],
+			"11. INSURED'S POLICY GROUP OR FECA NUMBER": "E5011999",
+			"11a. INSURED'S SEX": "M",
+			"11c. INSURANCE PLAN NAME": "BENZ ROLLING",
+			"11d. IS THERE ANOTHER HEALTH BENEFIT PLAN": "NO",
+			"12. PATIENT'S OR AUTHORIZED PERSON'S SIGNATURE": [
+			{"SIGNED": "JENARO", "DATE": "14 FEBRUARY 2023"}
+			],
+			"13. INSURED OR AUTHORIZED PERSON'S SIGNATURE": "SIGNATURE ON FILE"
+		}
+	],
+	"PHYSICIAN OR MEDICAL PROVIDER INFORMATION": [
+        {
+            "21. DIAGNOSIS OR NATURE OF ILLNESS": [
+			{
+				"label":"ICD Indicator",
+				"text": "9",
+				"words": [
+					{
+						"word": "9",
+						"normalizedVertices": [
+							{
+								"x": 875,
+								"y": 1295
+							},
+							{
+								"x": 905,
+								"y": 1295
+							},
+							{
+								"x": 905,
+								"y": 1320
+							},
+							{
+								"x": 875,
+								"y": 1320
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS A.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 95,
+								"y": 1300
+							},
+							{
+								"x": 220,
+								"y": 1300
+							},
+							{
+								"x": 220,
+								"y": 1359
+							},
+							{
+								"x": 95,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS B.",
+				"text": "RX2145",
+				"words": [
+					{
+						"word": "RX2145",
+						"normalizedVertices": [
+							{
+								"x": 350,
+								"y": 1300
+							},
+							{
+								"x": 470,
+								"y": 1300
+							},
+							{
+								"x": 470,
+								"y": 1359
+							},
+							{
+								"x": 350,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS C.",
+				"text": "S8994",
+				"words": [
+					{
+						"word": "S8994",
+						"normalizedVertices": [
+							{
+								"x": 610,
+								"y": 1300
+							},
+							{
+								"x": 730,
+								"y": 1300
+							},
+							{
+								"x": 730,
+								"y": 1359
+							},
+							{
+								"x": 610,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS D.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 875,
+								"y": 1321
+							},
+							{
+								"x": 995,
+								"y": 1321
+							},
+							{
+								"x": 995,
+								"y": 1359
+							},
+							{
+								"x": 875,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS E.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 95,
+								"y": 1361
+							},
+							{
+								"x": 220,
+								"y": 1361
+							},
+							{
+								"x": 220,
+								"y": 1419
+							},
+							{
+								"x": 95,
+								"y": 1419
+							}
+						]
+					}
+				]
+			},
+			{
+				"label":"ILLNESS F.",
+				"text": "Y412 . 6",
+				"words": [
+					{
+						"word": "Y412 . 6",
+						"normalizedVertices": [
+							{
+								"x": 350,
+								"y": 1361
+							},
+							{
+								"x": 470,
+								"y": 1361
+							},
+							{
+								"x": 470,
+								"y": 1419
+							},
+							{
+								"x": 350,
+								"y": 1419
+							}
+						]
+					}
+				]
+			}
+			],
+			"20. OUTSIDE LAB": "NO",
+			"20. LAB $CHARGES": " | ",
+			"22. RESUBMISSION CODE": " ",
+			"23. PRIOR AUTHORIZATION NUMBER": "9 9 9 9 9 9 9 9 9 9 P",
+			"24. SERVICES": [
+			{"MM 1":"16", "DD 1":"17", "YY 1": "24", "PLACE OF SERVICE 1": "02", "EMG 1": "Y", "CPT/HCPCS 1": "R8325", "MODIFIER 1": "25", "DIAGNOSIS POINTER 1": "AA", "$CHARGES 1":"95|00", "UNITS 1":"2.5", "Family Plan 1": "Y", "PROVIDER ID 1": "JL3252882"},
+			{"MM 2":"4", "DD 2":"30", "YY 2":"23", "PLACE OF SERVICE 2": "04", "EMG 2": "Y", "CPT/HCPCS 2": "92249", "MODIFIER 2": "26", "DIAGNOSIS POINTER 2": "AA", "$CHARGES 2": "824|96", "UNITS 2": "3", "Family Plan 2": "Y", "PROVIDER ID 2": "813528VB"},
+			{"MM 3":"", "DD 3":"", "YY 3":"", "PLACE OF SERVICE 3": "", "EMG 3": "", "CPT/HCPCS 3": "", "MODIFIER 3": "", "DIAGNOSIS POINTER 3": "", "$CHARGES 3": "", "UNITS 3": "", "Family Plan 3": "", "PROVIDER ID 3": ""}
+			],
+			"25. FEDERAL TAX I.D. NUMBER": "980514-819",
+			"25. FEDERAL IDENTIFICATION": "SSN",
+            "26. PATIENT'S ACCOUNT NUMBER": "",
+            "27. ACCEPT ASSIGNMENT": "NO",
+			"28. TOTAL CHARGE": "919|96",
+			"29. AMOUNT PAID": "910|25",
+			"31. PHYSICIAN OR SUPPLIER SIGNATURE": [
+			{"SIGNED": "", "DATE": "02 / 14 / 2024"}
+			],
+			"32. SERVICE INFORMATION": [
+			{"32. SERVICE FACILITY LOCATION": "KIMBERLY HEALTH CARE CENTER NORTH WALL, BIRCHWOOD 45TH LANE IL 83422"},
+			{"32. a. NPI NUMBER": "07146122833"}
+			],
+			"33. BILLING INFORMATION": [
+			{"33. BILLING PROVIDER PHONE": "735 658-1999"},
+			{"33. BILLING PROVIDER LOCATION": "PAY TO: HEALTH CENTRE BILLS & CLAIMS RANDOM ZONE IL 82245"},
+			{"33. a. NPI NUMBER": "87899553164"}
+			]
+		}
+	]
+}

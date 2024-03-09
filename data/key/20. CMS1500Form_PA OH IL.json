@@ -1,0 +1,295 @@
+{
+    "meta": {
+		"formtype": "HEALTH INSURANCE CLAIM FORM"
+	},
+	"PATIENT AND INSURED INFORMATION": [
+		{
+			"1.INSURED PLAN": "GROUP HEALTH PLAN ID#",
+			"1a. INSURED'S I.D. NUMBER": "ABT121944182-300100",
+			"2. PATIENT'S NAME": "BANERJEE, NIKHIL",
+			"3. PATIENT'S DATE OF BIRTH":[
+			{"MM":"03", "DD":"13", "YY":"2022"}
+			],
+			"3. PATIENT'S SEX": "M",
+			"4. INSURED'S NAME": "BANERJEE, SHUSHANT",
+			"5. PATIENT'S ADDRESS": "ST LOUIS CABIN RD 45",
+			"5. PATIENT'S CITY": "ST LOUIS",
+			"5. PATIENT'S STATE":"WA",
+			"5. PATIENT'S ZIP CODE": "822456",
+			"5. PATIENT'S TELEPHONE": [
+			{
+				"label":"PATIENT'S TELEPHONE NUMBER",
+				"text": "755 155-8999",
+				"words": [
+					{
+						"word": "755 155-8999",
+						"normalizedVertices": [
+							{
+								"x": 340,
+								"y": 580
+							},
+							{
+								"x": 640,
+								"y": 580
+							},
+							{
+								"x": 640,
+								"y": 630
+							},
+							{
+								"x": 340,
+								"y": 630
+							}
+						]
+					}
+				]	
+			}
+			],
+			"6. PATIENT RELATIONSHIP": "Other",
+			"7. INSURED'S INFO": [
+			{"4. INSURED'S NAME": "BANERJEE, SHUSHANT"},
+			{"7. INSURED'S ADDRESS": "ST LOUIS CABIN RD 45"},
+			{"7. INSURED'S CITY": "ST LOUIS", "7. INSURED'S STATE":"WA"},
+			{"7. INSURED'S ZIP CODE":"822456", "7. INSURED'S TELEPHONE":"112 913-3210"}
+			],
+			"9. OTHER INSURED'S NAME": "BANERJEE, SHUSHANT",
+			"9a. OTHER INSURED'S POLICY OR GROUP": "789258963",
+			"9d. INSURANCE PLAN NAME": "MEDICAID GROUP GHP",
+			"10. PATIENT'S CONDITION": [
+			{"10a. EMPLOYMENT": "NO"},
+			{"10b. AUTO ACCIDENT": "YES"},
+			{"10c. OTHER ACCIDENT":"NO"}
+			],
+			"11. INSURED'S POLICY GROUP OR FECA NUMBER": "00512453245",
+			"11a. INSURED'S SEX": "M",
+			"11c. INSURANCE PLAN NAME": "IGLOO NON UNION SOCIETY",
+			"11d. IS THERE ANOTHER HEALTH BENEFIT PLAN": "YES",
+			"12. PATIENT'S OR AUTHORIZED PERSON'S SIGNATURE": [
+			{"SIGNED": "SHUSHANT, BANERJEE", "DATE": "06/30/ 1957"}
+			],
+			"13. INSURED OR AUTHORIZED PERSON'S SIGNATURE": "BANERJEE & BANERJEE"
+		}
+	],
+	"PHYSICIAN OR MEDICAL PROVIDER INFORMATION": [
+        {
+            "21. DIAGNOSIS OR NATURE OF ILLNESS": [
+			{
+				"label":"ICD Indicator",
+				"text": "9",
+				"words": [
+					{
+						"word": "9",
+						"normalizedVertices": [
+							{
+								"x": 875,
+								"y": 1295
+							},
+							{
+								"x": 905,
+								"y": 1295
+							},
+							{
+								"x": 905,
+								"y": 1320
+							},
+							{
+								"x": 875,
+								"y": 1320
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS A.",
+				"text": "T815",
+				"words": [
+					{
+						"word": "G816",
+						"normalizedVertices": [
+							{
+								"x": 95,
+								"y": 1300
+							},
+							{
+								"x": 220,
+								"y": 1300
+							},
+							{
+								"x": 220,
+								"y": 1359
+							},
+							{
+								"x": 95,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS B.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 350,
+								"y": 1300
+							},
+							{
+								"x": 470,
+								"y": 1300
+							},
+							{
+								"x": 470,
+								"y": 1359
+							},
+							{
+								"x": 350,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS C.",
+				"text": "S215",
+				"words": [
+					{
+						"word": "S215",
+						"normalizedVertices": [
+							{
+								"x": 610,
+								"y": 1300
+							},
+							{
+								"x": 730,
+								"y": 1300
+							},
+							{
+								"x": 730,
+								"y": 1359
+							},
+							{
+								"x": 610,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS D.",
+				"text": "T22",
+				"words": [
+					{
+						"word": "T22",
+						"normalizedVertices": [
+							{
+								"x": 875,
+								"y": 1321
+							},
+							{
+								"x": 995,
+								"y": 1321
+							},
+							{
+								"x": 995,
+								"y": 1359
+							},
+							{
+								"x": 875,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS E.",
+				"text": "N16 . 9",
+				"words": [
+					{
+						"word": "N16 . 9",
+						"normalizedVertices": [
+							{
+								"x": 95,
+								"y": 1361
+							},
+							{
+								"x": 220,
+								"y": 1361
+							},
+							{
+								"x": 220,
+								"y": 1419
+							},
+							{
+								"x": 95,
+								"y": 1419
+							}
+						]
+					}
+				]
+			},
+			{
+				"label":"ILLNESS F.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 350,
+								"y": 1361
+							},
+							{
+								"x": 470,
+								"y": 1361
+							},
+							{
+								"x": 470,
+								"y": 1419
+							},
+							{
+								"x": 350,
+								"y": 1419
+							}
+						]
+					}
+				]
+			}
+			],
+			"20. OUTSIDE LAB": "NO",
+			"20. LAB $CHARGES": "|",
+			"22. RESUBMISSION CODE":  "AB 40",
+			"23. PRIOR AUTHORIZATION NUMBER": "M9988889668",
+			"24. SERVICES": [
+			{"MM 1":"12", "DD 1":"02", "YY 1": "24", "PLACE OF SERVICE 1": "05", "EMG 1": "Y", "CPT/HCPCS 1": "T4464", "MODIFIER 1": "AU", "DIAGNOSIS POINTER 1": "FB", "$CHARGES 1":"25|50", "UNITS 1":"001", "Family Plan 1": "Y", "PROVIDER ID 1": ""},
+			{"MM 2":"11", "DD 2":"11", "YY 2":"25", "PLACE OF SERVICE 2": "10", "EMG 2": "Y", "CPT/HCPCS 2": "19465", "MODIFIER 2": "AG", "DIAGNOSIS POINTER 2": "24", "$CHARGES 2": "1655|00", "UNITS 2": "3", "Family Plan 2": "Y", "PROVIDER ID 2": ""},
+			{"MM 3":"", "DD 3":"", "YY 3":"", "PLACE OF SERVICE 3": "", "EMG 3": "", "CPT/HCPCS 3": "", "MODIFIER 3": "", "DIAGNOSIS POINTER 3": "", "$CHARGES 3": "", "UNITS 3": "", "Family Plan 3": "", "PROVIDER ID 3": ""}
+			],
+			"25. FEDERAL TAX I.D. NUMBER": "431-8152-4877",
+			"25. FEDERAL IDENTIFICATION": "SSN",
+            "26. PATIENT'S ACCOUNT NUMBER": "685222",
+            "27. ACCEPT ASSIGNMENT": "YES",
+			"28. TOTAL CHARGE": "1680|20",
+			"29. AMOUNT PAID": "1680|20",
+			"31. PHYSICIAN OR SUPPLIER SIGNATURE": [
+			{"SIGNED": " BANERJEE", "DATE": "06 /30 /2025"}
+			],
+			"32. SERVICE INFORMATION": [
+			{"32. SERVICE FACILITY LOCATION": "VISION CARE CENTRAL HOSPITAL 45 LAKEVIEW STREET 845122"},
+			{"32. a. NPI NUMBER": "LPT5422837"}
+			],
+			"33. BILLING INFORMATION": [
+			{"33. BILLING PROVIDER PHONE": "735 223-4000"},
+			{"33. BILLING PROVIDER LOCATION": "TPL BUILDING: HCC TPL DEPARTMENT SILENT LAKE HIGHWAY PO 2587441 HAMILTON CITY DE"},
+			{"33. a. NPI NUMBER": ""}
+			]
+		}
+	]
+}

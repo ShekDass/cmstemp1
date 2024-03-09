@@ -1,0 +1,295 @@
+{
+    "meta": {
+		"formtype": "HEALTH INSURANCE CLAIM FORM"
+	},
+	"PATIENT AND INSURED INFORMATION": [
+		{
+			"1.INSURED PLAN": "FECA BLK LUNG ID#",
+			"1a. INSURED'S I.D. NUMBER": "KSB499525866236",
+			"2. PATIENT'S NAME": "SPECTER, SAM R",
+			"3. PATIENT'S DATE OF BIRTH":[
+			{"MM":"10", "17":"", "YY":"2024"}
+			],
+			"3. PATIENT'S SEX": "M",
+			"4. INSURED'S NAME": "SPECTER, RAYMOND",
+			"5. PATIENT'S ADDRESS": "",
+			"5. PATIENT'S CITY": "RAYMOND",
+			"5. PATIENT'S STATE":"OH",
+			"5. PATIENT'S ZIP CODE": "60064",
+			"5. PATIENT'S TELEPHONE": [
+			{
+				"label":"PATIENT'S TELEPHONE NUMBER",
+				"text": "834 655-4322",
+				"words": [
+					{
+						"word": "836 688-4318",
+						"normalizedVertices": [
+							{
+								"x": 340,
+								"y": 580
+							},
+							{
+								"x": 640,
+								"y": 580
+							},
+							{
+								"x": 640,
+								"y": 630
+							},
+							{
+								"x": 340,
+								"y": 630
+							}
+						]
+					}
+				]	
+			}
+			],
+			"6. PATIENT RELATIONSHIP": "Child",
+			"7. INSURED'S INFO": [
+			{"4. INSURED'S NAME": "SPECTER, RAYMOND"},
+			{"7. INSURED'S ADDRESS": "44 ALPINE HILL ROSAMAGENTA, 23RD ST"},
+			{"7. INSURED'S CITY": "RAYMOND", "7. INSURED'S STATE":"OH"},
+			{"7. INSURED'S ZIP CODE":"57922", "7. INSURED'S TELEPHONE":"688 995 - 4300"}
+			],
+			"9. OTHER INSURED'S NAME": "SPECTER, RAYMOND",
+			"9a. OTHER INSURED'S POLICY OR GROUP": "255422455",
+			"9d. INSURANCE PLAN NAME": "MEDICAID WITH FECA ID",
+			"10. PATIENT'S CONDITION": [
+			{"10a. EMPLOYMENT": "YES"},
+			{"10b. AUTO ACCIDENT": "NO"},
+			{"10c. OTHER ACCIDENT":"YES"}
+			],
+			"11. INSURED'S POLICY GROUP OR FECA NUMBER": "0532158455",
+			"11a. INSURED'S SEX": "M",
+			"11c. INSURANCE PLAN NAME": "ESH GROUP NON UNION",
+			"11d. IS THERE ANOTHER HEALTH BENEFIT PLAN": "YES",
+			"12. PATIENT'S OR AUTHORIZED PERSON'S SIGNATURE": [
+			{"SIGNED": "RAYMOND", "DATE": "05/06/2023"}
+			],
+			"13. INSURED OR AUTHORIZED PERSON'S SIGNATURE": "RAYMOND"
+		}
+	],
+	"PHYSICIAN OR MEDICAL PROVIDER INFORMATION": [
+        {
+            "21. DIAGNOSIS OR NATURE OF ILLNESS": [
+			{
+				"label":"ICD Indicator",
+				"text": "9",
+				"words": [
+					{
+						"word": "9",
+						"normalizedVertices": [
+							{
+								"x": 875,
+								"y": 1295
+							},
+							{
+								"x": 905,
+								"y": 1295
+							},
+							{
+								"x": 905,
+								"y": 1320
+							},
+							{
+								"x": 875,
+								"y": 1320
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS A.",
+				"text": "Q889 . 6",
+				"words": [
+					{
+						"word": "Q889 . 6",
+						"normalizedVertices": [
+							{
+								"x": 95,
+								"y": 1300
+							},
+							{
+								"x": 220,
+								"y": 1300
+							},
+							{
+								"x": 220,
+								"y": 1359
+							},
+							{
+								"x": 95,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS B.",
+				"text": "R22",
+				"words": [
+					{
+						"word": "R22",
+						"normalizedVertices": [
+							{
+								"x": 350,
+								"y": 1300
+							},
+							{
+								"x": 470,
+								"y": 1300
+							},
+							{
+								"x": 470,
+								"y": 1359
+							},
+							{
+								"x": 350,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS C.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 610,
+								"y": 1300
+							},
+							{
+								"x": 730,
+								"y": 1300
+							},
+							{
+								"x": 730,
+								"y": 1359
+							},
+							{
+								"x": 610,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS D.",
+				"text": "80T45",
+				"words": [
+					{
+						"word": "80T45",
+						"normalizedVertices": [
+							{
+								"x": 875,
+								"y": 1321
+							},
+							{
+								"x": 995,
+								"y": 1321
+							},
+							{
+								"x": 995,
+								"y": 1359
+							},
+							{
+								"x": 875,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS E.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 95,
+								"y": 1361
+							},
+							{
+								"x": 220,
+								"y": 1361
+							},
+							{
+								"x": 220,
+								"y": 1419
+							},
+							{
+								"x": 95,
+								"y": 1419
+							}
+						]
+					}
+				]
+			},
+			{
+				"label":"ILLNESS F.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 350,
+								"y": 1361
+							},
+							{
+								"x": 470,
+								"y": 1361
+							},
+							{
+								"x": 470,
+								"y": 1419
+							},
+							{
+								"x": 350,
+								"y": 1419
+							}
+						]
+					}
+				]
+			}
+			],
+			"20. OUTSIDE LAB": "YES",
+			"20. LAB $CHARGES": "40|28 ",
+			"22. RESUBMISSION CODE":  "A 26",
+			"23. PRIOR AUTHORIZATION NUMBER": "9999945554",
+			"24. SERVICES": [
+			{"MM 1":"07", "DD 1":"20", "YY 1": "22", "PLACE OF SERVICE 1": "6", "EMG 1": "Y", "CPT/HCPCS 1": "X4432", "MODIFIER 1": "MB", "DIAGNOSIS POINTER 1": "B", "$CHARGES 1":"840|50", "UNITS 1":"003", "Family Plan 1": "", "PROVIDER ID 1": ""},
+			{"MM 2":"06", "DD 2":"19", "YY 2":"24", "PLACE OF SERVICE 2": "14", "EMG 2": "Y", "CPT/HCPCS 2": "87446", "MODIFIER 2": "CN", "DIAGNOSIS POINTER 2": "A", "$CHARGES 2": "25|25", "UNITS 2": "1.5", "Family Plan 2": "Y", "PROVIDER ID 2": ""},
+			{"MM 3":"", "DD 3":"", "YY 3":"", "PLACE OF SERVICE 3": "", "EMG 3": "", "CPT/HCPCS 3": "", "MODIFIER 3": "", "DIAGNOSIS POINTER 3": "", "$CHARGES 3": "", "UNITS 3": "", "Family Plan 3": "", "PROVIDER ID 3": ""}
+			],
+			"25. FEDERAL TAX I.D. NUMBER": "89923-45896",
+			"25. FEDERAL IDENTIFICATION": "EIN",
+            "26. PATIENT'S ACCOUNT NUMBER": "20146124",
+            "27. ACCEPT ASSIGNMENT": "NO",
+			"28. TOTAL CHARGE": "865|75",
+			"29. AMOUNT PAID": "865|70",
+			"31. PHYSICIAN OR SUPPLIER SIGNATURE": [
+			{"SIGNED": "RAYMOND", "DATE": "05/06/2023"}
+			],
+			"32. SERVICE INFORMATION": [
+			{"32. SERVICE FACILITY LOCATION": "ARMY HOSPITAL & PARAMEDICS WING NORTH SPRING BAY DLVD IL 579922 MAJOR BROWN WING SW BLOCK"},
+			{"32. a. NPI NUMBER": "9504239"}
+			],
+			"33. BILLING INFORMATION": [
+			{"33. BILLING PROVIDER PHONE": "795 858-7019"},
+			{"33. BILLING PROVIDER LOCATION": "FED GOVT TO: CLAIMS ENROLL DEPARTMENT ILLINOIS INDIANA PO BOX 60322 OPP. RABBIT RACE TRACK 7445-88893"},
+			{"33. a. NPI NUMBER": ""}
+			]
+		}
+	]
+}

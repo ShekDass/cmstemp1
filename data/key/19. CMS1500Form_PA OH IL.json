@@ -1,0 +1,295 @@
+{
+    "meta": {
+		"formtype": "HEALTH INSURANCE CLAIM FORM"
+	},
+	"PATIENT AND INSURED INFORMATION": [
+		{
+			"1.INSURED PLAN": "FECA BLK LUNG ID#",
+			"1a. INSURED'S I.D. NUMBER": "SJT121944-182300-D100",
+			"2. PATIENT'S NAME": "EDMOND, JOHN",
+			"3. PATIENT'S DATE OF BIRTH":[
+			{"MM":"09", "DD":"09", "YY":"1994"}
+			],
+			"3. PATIENT'S SEX": "F",
+			"4. INSURED'S NAME": "EDMOND, TIA",
+			"5. PATIENT'S ADDRESS": "258 ST BIG SILVA DR",
+			"5. PATIENT'S CITY": "EDMOND",
+			"5. PATIENT'S STATE":"IL",
+			"5. PATIENT'S ZIP CODE": "73012",
+			"5. PATIENT'S TELEPHONE": [
+			{
+				"label":"PATIENT'S TELEPHONE NUMBER",
+				"text": "895 6556-4329",
+				"words": [
+					{
+						"word": "895 6556-4329",
+						"normalizedVertices": [
+							{
+								"x": 340,
+								"y": 580
+							},
+							{
+								"x": 640,
+								"y": 580
+							},
+							{
+								"x": 640,
+								"y": 630
+							},
+							{
+								"x": 340,
+								"y": 630
+							}
+						]
+					}
+				]	
+			}
+			],
+			"6. PATIENT RELATIONSHIP": "Child",
+			"7. INSURED'S INFO": [
+			{"4. INSURED'S NAME": "EDMOND, TIA"},
+			{"7. INSURED'S ADDRESS": "6401 N PLACITA ALTA TPL HOUSE"},
+			{"7. INSURED'S CITY": "SALT LAKE CITY", "7. INSURED'S STATE":"IL"},
+			{"7. INSURED'S ZIP CODE":"73012", "7. INSURED'S TELEPHONE":"999 866-3123"}
+			],
+			"9. OTHER INSURED'S NAME": "DASHAN, HARRY POTTER",
+			"9a. OTHER INSURED'S POLICY OR GROUP": "8554491155780",
+			"9d. INSURANCE PLAN NAME": "MEDICAID WITH FECA",
+			"10. PATIENT'S CONDITION": [
+			{"10a. EMPLOYMENT": "YES"},
+			{"10b. AUTO ACCIDENT": "NO"},
+			{"10c. OTHER ACCIDENT":"NO"}
+			],
+			"11. INSURED'S POLICY GROUP OR FECA NUMBER": "45566",
+			"11a. INSURED'S SEX": "F",
+			"11c. INSURANCE PLAN NAME": "KIMBERLY GROUP NON UNION",
+			"11d. IS THERE ANOTHER HEALTH BENEFIT PLAN": "YES",
+			"12. PATIENT'S OR AUTHORIZED PERSON'S SIGNATURE": [
+			{"SIGNED": "DIGITAL SIGN", "DATE": "01/24/2023"}
+			],
+			"13. INSURED OR AUTHORIZED PERSON'S SIGNATURE": "SIGNATURE ON FILE"
+		}
+	],
+	"PHYSICIAN OR MEDICAL PROVIDER INFORMATION": [
+        {
+            "21. DIAGNOSIS OR NATURE OF ILLNESS": [
+			{
+				"label":"ICD Indicator",
+				"text": "0",
+				"words": [
+					{
+						"word": "0",
+						"normalizedVertices": [
+							{
+								"x": 875,
+								"y": 1295
+							},
+							{
+								"x": 905,
+								"y": 1295
+							},
+							{
+								"x": 905,
+								"y": 1320
+							},
+							{
+								"x": 875,
+								"y": 1320
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS A.",
+				"text": "R8855",
+				"words": [
+					{
+						"word": "R8855",
+						"normalizedVertices": [
+							{
+								"x": 95,
+								"y": 1300
+							},
+							{
+								"x": 220,
+								"y": 1300
+							},
+							{
+								"x": 220,
+								"y": 1359
+							},
+							{
+								"x": 95,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS B.",
+				"text": "T21",
+				"words": [
+					{
+						"word": "T21",
+						"normalizedVertices": [
+							{
+								"x": 350,
+								"y": 1300
+							},
+							{
+								"x": 470,
+								"y": 1300
+							},
+							{
+								"x": 470,
+								"y": 1359
+							},
+							{
+								"x": 350,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS C.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 610,
+								"y": 1300
+							},
+							{
+								"x": 730,
+								"y": 1300
+							},
+							{
+								"x": 730,
+								"y": 1359
+							},
+							{
+								"x": 610,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS D.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 875,
+								"y": 1321
+							},
+							{
+								"x": 995,
+								"y": 1321
+							},
+							{
+								"x": 995,
+								"y": 1359
+							},
+							{
+								"x": 875,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS E.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 95,
+								"y": 1361
+							},
+							{
+								"x": 220,
+								"y": 1361
+							},
+							{
+								"x": 220,
+								"y": 1419
+							},
+							{
+								"x": 95,
+								"y": 1419
+							}
+						]
+					}
+				]
+			},
+			{
+				"label":"ILLNESS F.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 350,
+								"y": 1361
+							},
+							{
+								"x": 470,
+								"y": 1361
+							},
+							{
+								"x": 470,
+								"y": 1419
+							},
+							{
+								"x": 350,
+								"y": 1419
+							}
+						]
+					}
+				]
+			}
+			],
+			"20. OUTSIDE LAB": "NO",
+			"20. LAB $CHARGES": "0|",
+			"22. RESUBMISSION CODE":  "7 BQ",
+			"23. PRIOR AUTHORIZATION NUMBER": "8888800088",
+			"24. SERVICES": [
+			{"MM 1":"11", "DD 1":"13", "YY 1": "23", "PLACE OF SERVICE 1": "05", "EMG 1": "Y", "CPT/HCPCS 1": "F3521", "MODIFIER 1": "", "DIAGNOSIS POINTER 1": "AA", "$CHARGES 1":"59|87", "UNITS 1":"2", "Family Plan 1": "", "PROVIDER ID 1": "8811528877"},
+			{"MM 2":"01", "DD 2":"19", "YY 2":"24", "PLACE OF SERVICE 2": "03", "EMG 2": "Y", "CPT/HCPCS 2": "R3486", "MODIFIER 2": "", "DIAGNOSIS POINTER 2": "BE", "$CHARGES 2": "26|45", "UNITS 2": "1", "Family Plan 2": "", "PROVIDER ID 2": "88115288S7"},
+			{"MM 3":"12", "DD 3":"19", "YY 3":"19", "PLACE OF SERVICE 3": "", "EMG 3": "", "CPT/HCPCS 3": "00250", "MODIFIER 3": "10", "DIAGNOSIS POINTER 3": "V13", "$CHARGES 3": "00|00", "UNITS 3": "0.5", "Family Plan 3": "", "PROVIDER ID 3": ""}
+			],
+			"25. FEDERAL TAX I.D. NUMBER": "",
+			"25. FEDERAL IDENTIFICATION": "EIN",
+            "26. PATIENT'S ACCOUNT NUMBER": "89752102014612",
+            "27. ACCEPT ASSIGNMENT": "NO",
+			"28. TOTAL CHARGE": "085|50",
+			"29. AMOUNT PAID": "1048|25",
+			"31. PHYSICIAN OR SUPPLIER SIGNATURE": [
+			{"SIGNED": "SIGNATURE ON FILE", "DATE": "06/16/2024"}
+			],
+			"32. SERVICE INFORMATION": [
+			{"32. SERVICE FACILITY LOCATION": "VISION & DENTAL CARE CENTER EDMOND, ILLINOIS 73015"},
+			{"32. a. NPI NUMBER": ""}
+			],
+			"33. BILLING INFORMATION": [
+			{"33. BILLING PROVIDER PHONE": "705 658-7001"},
+			{"33. BILLING PROVIDER LOCATION": "CHICAGO CLAIMS BRANCH PO BOX ILLINOIS 60115 TPL HOUSE SUPERBOWL OH 92245"},
+			{"33. a. NPI NUMBER": "5223165"}
+			]
+		}
+	]
+}

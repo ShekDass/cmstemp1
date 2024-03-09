@@ -1,0 +1,295 @@
+{
+    "meta": {
+		"formtype": "HEALTH INSURANCE CLAIM FORM"
+	},
+	"PATIENT AND INSURED INFORMATION": [
+		{
+			"1.INSURED PLAN": "MEDICAID Medicaid#",
+			"1a. INSURED'S I.D. NUMBER": "NCO1235188116399",
+			"2. PATIENT'S NAME": "SKEETE, JULIA H",
+			"3. PATIENT'S DATE OF BIRTH":[
+			{"MM":"11", "DD":"03", "YY":"1962"}
+			],
+			"3. PATIENT'S SEX": "F",
+			"4. INSURED'S NAME": "SKEETE, JASON",
+			"5. PATIENT'S ADDRESS": "5151 PEACH TREE HWY",
+			"5. PATIENT'S CITY": "TUCSON CITY",
+			"5. PATIENT'S STATE":"PA",
+			"5. PATIENT'S ZIP CODE": "",
+			"5. PATIENT'S TELEPHONE": [
+			{
+				"label":"PATIENT'S TELEPHONE NUMBER",
+				"text": "117 ",
+				"words": [
+					{
+						"word": "117 ",
+						"normalizedVertices": [
+							{
+								"x": 340,
+								"y": 580
+							},
+							{
+								"x": 640,
+								"y": 580
+							},
+							{
+								"x": 640,
+								"y": 630
+							},
+							{
+								"x": 340,
+								"y": 630
+							}
+						]
+					}
+				]	
+			}
+			],
+			"6. PATIENT RELATIONSHIP": "Self",
+			"7. INSURED'S INFO": [
+			{"4. INSURED'S NAME": "SKEETE, JASON"},
+			{"7. INSURED'S ADDRESS": "645 CORNER RIDGE 40TH BLOCK, FLAT #112"},
+			{"7. INSURED'S CITY": "PEACH CITY", "7. INSURED'S STATE":"ND"},
+			{"7. INSURED'S ZIP CODE":"55504", "7. INSURED'S TELEPHONE":"765 235 - 5916"}
+			],
+			"9. OTHER INSURED'S NAME": "SKEETE, BRYAN",
+			"9a. OTHER INSURED'S POLICY OR GROUP": "199019852",
+			"9d. INSURANCE PLAN NAME": "ITS MEDC",
+			"10. PATIENT'S CONDITION": [
+			{"10a. EMPLOYMENT": "YES"},
+			{"10b. AUTO ACCIDENT": "YES"},
+			{"10c. OTHER ACCIDENT":"NO"}
+			],
+			"11. INSURED'S POLICY GROUP OR FECA NUMBER": "",
+			"11a. INSURED'S SEX": "M",
+			"11c. INSURANCE PLAN NAME": "MCD CORP EMP NON UNION GROUP",
+			"11d. IS THERE ANOTHER HEALTH BENEFIT PLAN": "NO",
+			"12. PATIENT'S OR AUTHORIZED PERSON'S SIGNATURE": [
+			{"SIGNED": "", "DATE": "06 / 21 / 2024"}
+			],
+			"13. INSURED OR AUTHORIZED PERSON'S SIGNATURE": "INSURED SIGN SUFFICIENT"
+		}
+	],
+	"PHYSICIAN OR MEDICAL PROVIDER INFORMATION": [
+        {
+            "21. DIAGNOSIS OR NATURE OF ILLNESS": [
+			{
+				"label":"ICD Indicator",
+				"text": "9",
+				"words": [
+					{
+						"word": "9",
+						"normalizedVertices": [
+							{
+								"x": 875,
+								"y": 1295
+							},
+							{
+								"x": 905,
+								"y": 1295
+							},
+							{
+								"x": 905,
+								"y": 1320
+							},
+							{
+								"x": 875,
+								"y": 1320
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS A.",
+				"text": "MX4568",
+				"words": [
+					{
+						"word": "MX4568",
+						"normalizedVertices": [
+							{
+								"x": 95,
+								"y": 1300
+							},
+							{
+								"x": 220,
+								"y": 1300
+							},
+							{
+								"x": 220,
+								"y": 1359
+							},
+							{
+								"x": 95,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS B.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 350,
+								"y": 1300
+							},
+							{
+								"x": 470,
+								"y": 1300
+							},
+							{
+								"x": 470,
+								"y": 1359
+							},
+							{
+								"x": 350,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS C.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 610,
+								"y": 1300
+							},
+							{
+								"x": 730,
+								"y": 1300
+							},
+							{
+								"x": 730,
+								"y": 1359
+							},
+							{
+								"x": 610,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS D.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 875,
+								"y": 1321
+							},
+							{
+								"x": 995,
+								"y": 1321
+							},
+							{
+								"x": 995,
+								"y": 1359
+							},
+							{
+								"x": 875,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS E.",
+				"text": "8741B",
+				"words": [
+					{
+						"word": "8741B",
+						"normalizedVertices": [
+							{
+								"x": 95,
+								"y": 1361
+							},
+							{
+								"x": 220,
+								"y": 1361
+							},
+							{
+								"x": 220,
+								"y": 1419
+							},
+							{
+								"x": 95,
+								"y": 1419
+							}
+						]
+					}
+				]
+			},
+			{
+				"label":"ILLNESS F.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 350,
+								"y": 1361
+							},
+							{
+								"x": 470,
+								"y": 1361
+							},
+							{
+								"x": 470,
+								"y": 1419
+							},
+							{
+								"x": 350,
+								"y": 1419
+							}
+						]
+					}
+				]
+			}
+			],
+			"20. OUTSIDE LAB": "YES",
+			"20. LAB $CHARGES": "60| ",
+			"22. RESUBMISSION CODE": "A25",
+			"23. PRIOR AUTHORIZATION NUMBER": "9999999966R",
+			"24. SERVICES": [
+			{"MM 1":"03", "DD 1":"23", "YY 1": "22", "PLACE OF SERVICE 1": "01", "EMG 1": "", "CPT/HCPCS 1": "Q5455", "MODIFIER 1": "LZ", "DIAGNOSIS POINTER 1": "BB", "$CHARGES 1":"94|60", "UNITS 1":"70", "Family Plan 1": "Y", "PROVIDER ID 1": "C946070"},
+			{"MM 2":"", "DD 2":"", "YY 2":"", "PLACE OF SERVICE 2": "", "EMG 2": "", "CPT/HCPCS 2": "", "MODIFIER 2": "", "DIAGNOSIS POINTER 2": "", "$CHARGES 2": "", "UNITS 2": "", "Family Plan 2": "", "PROVIDER ID 2": ""},
+			{"MM 3":"", "DD 3":"", "YY 3":"", "PLACE OF SERVICE 3": "", "EMG 3": "", "CPT/HCPCS 3": "", "MODIFIER 3": "", "DIAGNOSIS POINTER 3": "", "$CHARGES 3": "", "UNITS 3": "", "Family Plan 3": "", "PROVIDER ID 3": ""}
+			],
+			"25. FEDERAL TAX I.D. NUMBER": "27-8995-114",
+			"25. FEDERAL IDENTIFICATION": "EIN",
+            "26. PATIENT'S ACCOUNT NUMBER": "685222014612",
+            "27. ACCEPT ASSIGNMENT": "YES",
+			"28. TOTAL CHARGE": "94|60",
+			"29. AMOUNT PAID": "90| ",
+			"31. PHYSICIAN OR SUPPLIER SIGNATURE": [
+			{"SIGNED": "SIGNED NEW STYLE", "DATE": "06 / 30 / 2023"}
+			],
+			"32. SERVICE INFORMATION": [
+			{"32. SERVICE FACILITY LOCATION": "VILLETOWN HCC MEDICAL SERVICES PEACH CITY DE 432115 CORN FIFS FARM VILLAGE"},
+			{"32. a. NPI NUMBER": ""}
+			],
+			"33. BILLING INFORMATION": [
+			{"33. BILLING PROVIDER PHONE": "785 358-7886"},
+			{"33. BILLING PROVIDER LOCATION": "PAYER'S ADDRESS: TPL LOWER USF NPI BROWNHOUSE PA 5966"},
+			{"33. a. NPI NUMBER": ""}
+			]
+		}
+	]
+}

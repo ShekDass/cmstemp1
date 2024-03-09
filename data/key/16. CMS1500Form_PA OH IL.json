@@ -1,0 +1,295 @@
+{
+    "meta": {
+		"formtype": "HEALTH INSURANCE CLAIM FORM"
+	},
+	"PATIENT AND INSURED INFORMATION": [
+		{
+			"1.INSURED PLAN": "CHAMPVA Member ID#",
+			"1a. INSURED'S I.D. NUMBER": "KSB441256823",
+			"2. PATIENT'S NAME": "GLUCHEN, KENT S",
+			"3. PATIENT'S DATE OF BIRTH":[
+			{"MM":"06", "DD":"23", "YY":"2009"}
+			],
+			"3. PATIENT'S SEX": "M",
+			"4. INSURED'S NAME": "GLUCHEN, STUART",
+			"5. PATIENT'S ADDRESS": "1113 NW 197TH ST",
+			"5. PATIENT'S CITY": "AUGUSTA",
+			"5. PATIENT'S STATE":"IL",
+			"5. PATIENT'S ZIP CODE": "85700",
+			"5. PATIENT'S TELEPHONE": [
+			{
+				"label":"PATIENT'S TELEPHONE NUMBER",
+				"text": "834 655-8155",
+				"words": [
+					{
+						"word": "834 655-8155",
+						"normalizedVertices": [
+							{
+								"x": 340,
+								"y": 580
+							},
+							{
+								"x": 640,
+								"y": 580
+							},
+							{
+								"x": 640,
+								"y": 630
+							},
+							{
+								"x": 340,
+								"y": 630
+							}
+						]
+					}
+				]	
+			}
+			],
+			"6. PATIENT RELATIONSHIP": "Child",
+			"7. INSURED'S INFO": [
+			{"4. INSURED'S NAME": "GLUCHEN, STUART"},
+			{"7. INSURED'S ADDRESS": "402 SPRINGS BAY BYPASS HWY"},
+			{"7. INSURED'S CITY": "EDMOND", "7. INSURED'S STATE": "IL"},
+			{"7. INSURED'S ZIP CODE":"85705", "7. INSURED'S TELEPHONE":"733 815  - 2349"}
+			],
+			"9. OTHER INSURED'S NAME": "GLUCHEN, STUART",
+			"9a. OTHER INSURED'S POLICY OR GROUP": "457889511574",
+			"9d. INSURANCE PLAN NAME": "CHAMP MEDICAID",
+			"10. PATIENT'S CONDITION": [
+			{"10a. EMPLOYMENT": "YES"},
+			{"10b. AUTO ACCIDENT": "NO"},
+			{"10c. OTHER ACCIDENT":"NO"}
+			],
+			"11. INSURED'S POLICY GROUP OR FECA NUMBER": "0922158924A",
+			"11a. INSURED'S SEX": "M",
+			"11c. INSURANCE PLAN NAME": "NON UNION GROUP PPO",
+			"11d. IS THERE ANOTHER HEALTH BENEFIT PLAN": "NO",
+			"12. PATIENT'S OR AUTHORIZED PERSON'S SIGNATURE": [
+			{"SIGNED": "STUART GLUCHEN", "DATE": "11/19/2023"}
+			],
+			"13. INSURED OR AUTHORIZED PERSON'S SIGNATURE": "STUART GLUCHEN"
+		}
+	],
+	"PHYSICIAN OR MEDICAL PROVIDER INFORMATION": [
+        {
+            "21. DIAGNOSIS OR NATURE OF ILLNESS": [
+			{
+				"label":"ICD Indicator",
+				"text": "0",
+				"words": [
+					{
+						"word": "0",
+						"normalizedVertices": [
+							{
+								"x": 875,
+								"y": 1295
+							},
+							{
+								"x": 905,
+								"y": 1295
+							},
+							{
+								"x": 905,
+								"y": 1320
+							},
+							{
+								"x": 875,
+								"y": 1320
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS A.",
+				"text": "991.25",
+				"words": [
+					{
+						"word": "991.25",
+						"normalizedVertices": [
+							{
+								"x": 95,
+								"y": 1300
+							},
+							{
+								"x": 220,
+								"y": 1300
+							},
+							{
+								"x": 220,
+								"y": 1359
+							},
+							{
+								"x": 95,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS B.",
+				"text": "TX224",
+				"words": [
+					{
+						"word": "TX224",
+						"normalizedVertices": [
+							{
+								"x": 350,
+								"y": 1300
+							},
+							{
+								"x": 470,
+								"y": 1300
+							},
+							{
+								"x": 470,
+								"y": 1359
+							},
+							{
+								"x": 350,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS C.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 610,
+								"y": 1300
+							},
+							{
+								"x": 730,
+								"y": 1300
+							},
+							{
+								"x": 730,
+								"y": 1359
+							},
+							{
+								"x": 610,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS D.",
+				"text": "B08 . 8",
+				"words": [
+					{
+						"word": "B08 . 8",
+						"normalizedVertices": [
+							{
+								"x": 875,
+								"y": 1321
+							},
+							{
+								"x": 995,
+								"y": 1321
+							},
+							{
+								"x": 995,
+								"y": 1359
+							},
+							{
+								"x": 875,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS E.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 95,
+								"y": 1361
+							},
+							{
+								"x": 220,
+								"y": 1361
+							},
+							{
+								"x": 220,
+								"y": 1419
+							},
+							{
+								"x": 95,
+								"y": 1419
+							}
+						]
+					}
+				]
+			},
+			{
+				"label":"ILLNESS F.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 350,
+								"y": 1361
+							},
+							{
+								"x": 470,
+								"y": 1361
+							},
+							{
+								"x": 470,
+								"y": 1419
+							},
+							{
+								"x": 350,
+								"y": 1419
+							}
+						]
+					}
+				]
+			}
+			],
+			"20. OUTSIDE LAB": "NO",
+			"20. LAB $CHARGES": "0| ",
+			"22. RESUBMISSION CODE":  "",
+			"23. PRIOR AUTHORIZATION NUMBER": "9999996666SD",
+			"24. SERVICES": [
+			{"MM 1":"01", "DD 1":"29", "YY 1": "20", "PLACE OF SERVICE 1": "07", "EMG 1": "Y", "CPT/HCPCS 1": "S3544", "MODIFIER 1": "NJ", "DIAGNOSIS POINTER 1": "AB2", "$CHARGES 1":"39|25", "UNITS 1":"8.5", "Family Plan 1": "", "PROVIDER ID 1": "F115288P7"},
+			{"MM 2":"", "DD 2":"", "YY 2":"", "PLACE OF SERVICE 2": "", "EMG 2": "", "CPT/HCPCS 2": "", "MODIFIER 2": "", "DIAGNOSIS POINTER 2": "", "$CHARGES 2": "", "UNITS 2": "", "Family Plan 2": "", "PROVIDER ID 2": ""},
+			{"MM 3":"", "DD 3":"", "YY 3":"", "PLACE OF SERVICE 3": "", "EMG 3": "", "CPT/HCPCS 3": "", "MODIFIER 3": "", "DIAGNOSIS POINTER 3": "", "$CHARGES 3": "", "UNITS 3": "", "Family Plan 3": "", "PROVIDER ID 3": ""}
+			],
+			"25. FEDERAL TAX I.D. NUMBER": "5523-8946-1156",
+			"25. FEDERAL IDENTIFICATION": "SSN",
+            "26. PATIENT'S ACCOUNT NUMBER": "32541002014654",
+            "27. ACCEPT ASSIGNMENT": "YES",
+			"28. TOTAL CHARGE": "39|25",
+			"29. AMOUNT PAID": "00|00",
+			"31. PHYSICIAN OR SUPPLIER SIGNATURE": [
+			{"SIGNED": "STUART GLUCHEN", "DATE": "11/31/2019"}
+			],
+			"32. SERVICE INFORMATION": [
+			{"32. SERVICE FACILITY LOCATION": "DR DONNIE HEALTH CARE CENTER AUGUSTA STREET 39TH PA POST BOX OFFICE 60069"},
+			{"32. a. NPI NUMBER": "834511548"}
+			],
+			"33. BILLING INFORMATION": [
+			{"33. BILLING PROVIDER PHONE": "735 868-7331"},
+			{"33. BILLING PROVIDER LOCATION": "PAY TO: HCC BILLING SECTION SILENT HILL, DELAWARE, PO BOX 882574 CAMBRIDGE TOWERS NJ 577-895"},
+			{"33. a. NPI NUMBER": ""}
+			]
+		}
+	]
+}
